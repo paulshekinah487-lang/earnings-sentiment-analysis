@@ -1,0 +1,132 @@
+Operator
+
+Good morning, ladies and gentlemen. Welcome to JPMorgan Chase's First Quarter 2012 Earnings Call. This call is being recorded. [Operator Instructions]. At this time, I would like to turn the call over to JPMorgan Chase's Chairman and CEO, Jamie Dimon; and Chief Financial Officer, Jennifer Piepszak. Ms. Piepszak, please go ahead.
+
+Jennifer A. Piepszak -- Chief Financial Officer
+
+Thank you, operator. Good morning, everyone. As you heard, Jamie is with me on the call, and I know I speak for the entire company when I say we are just thrilled that he's back.
+
+Before we get into the first quarter performance, we want to start by recognizing that this is an extremely challenging time for all of us and our thoughts are with those most affected by COVID-19, particularly those on the frontlines of this crisis.
+
+The presentation this quarter is slightly longer to address a few key topics as we navigate this environment, and as always is available on our website and we ask that you please refer to the disclaimer at the back.
+
+Starting on Page 1, I'd like to highlight some of the ways we're responding to COVID-19. As a firm, we are focused on being there for our employees, customers, clients, and communities, in what is an unprecedented and uncertain environment. And while we don't know how this will play out, we will be transparent here about our assumptions and what we know today.
+
+Our number one priority is to continue to provide our services in an uninterrupted way by also providing a safe work environment for our employees. We're incredibly proud of all that our firm has been able to do over the past few weeks. So, I'll just hit on a few examples here.
+
+We've mobilized our workforce around the globe to work remotely where feasible, including operations and finance teams, portfolio and risk managers, bankers and traders, ensuring they have the right tools to work effectively. Currently, we have about 70% working from home across company, and for many groups, that number is well north of 90%. And for those who still need to go into the office or into a branch, we are taking extra precautions and being extremely mindful of their safety.
+
+And we're providing assistance in other ways too. For instance, we're offering free COVID-related medical treatment for U.S. employees and their dependents.
+
+On the consumer side, approximately 3/4 of our 5,000 branches have been open, all with heightened safety procedures and many with drive through options, and the vast majority of our over 16,000 ATMs remain accessible. And while our call center capacity has been challenged, we've quickly activated resiliency plans to address customer call seeking assistance and we put in place new digital and self-service solutions in record time. And while wait times have been extended, we're making good progress reducing them.
+
+For our customers who are struggling financially during this time, we are providing relief such as a 90-day grace period for mortgage, Auto, and Card payments, as well as waiving or refunding certain fees. We continue to support our customers and clients by providing liquidity and advice during this challenging market environment, and in the month of March we extended more than $100 billion of new credit.
+
+In wholesale, clients drew more than $50 billion on their revolvers with us, and we approved over $25 billion of new credit extensions for clients most impacted. And for our small business clients, we're actively supporting the SBA's Paycheck Protection Program.
+
+The number you see on the slide are as of April 12. And as of this morning, we have more than 300,000 in some stage of the application process, representing $37 billion in loans, and we funded $9.3 billion to businesses with over 700,000 employees. And to help the most vulnerable and hardest hit communities, as an initial step, we've announced $150 million loan program to get capital to underserved small businesses and non-profits, as well as a $50 million philanthropic investment.
+
+Now, turning to Page 2 for highlights on our first quarter financial performance. For the quarter, the firm reported net income of $2.9 billion, EPS of $0.78 and revenue of $29.1 billion with a return on tangible common equity of 5%.
+
+While the underlying business fundamental this quarter performed very well, we reported a number of significant items all due to impacts from COVID-19, which I'll discuss in more detail later. And at a high level, these items are a credit reserve build of $6.8 billion, approximately $950 million of losses in CIB, largely due to the widening of funding spreads on derivatives, and a $900 million markdown on our bridge book.
+
+It might be an obvious point that the quarter was really a tale of two cities: January and February, and then March when the crisis started to unfold. And with that, I thought it would be helpful to talk through some key metrics that highlight this dynamic across our businesses.
+
+So, let's go to Page 3. Starting with Card sales volume on the top left. In March, we saw a rapid decline in spend, initially in travel and entertainment, which then spread to restaurants and retail, as social distancing protocols were implemented more broadly. While most spend categories were ultimately impacted, we did see an initial boost to supermarkets, wholesale clubs and discount stores as people stocked up on provisions, but even that is now starting to normalize. And we saw similar trends in Merchant Services, as highlighted in the significant decline in brick and mortar spend excluding supermarkets, whereas e-commerce spend has held up well by comparison.
+
+In investment banking, in the middle of the page, there was a surge in debt issuance by investment grade clients as the market remained open and clients' desire to shore up liquidity was top of mind. It was the largest quarter ever in terms of investment grade debt issuance led by JPMorgan. And in Markets, volatility drove elevated trading volumes across products, most notably across rates and commodities, which at their peak were more than triple our average January trading volumes.
+
+And on the far right, deposit growth accelerated meaningfully in March, most notably driven by wholesale clients as they secured liquidity and held those higher cash balances with us. At the same time, we saw accelerating loan growth, primarily driven by revolver draws.
+
+And finally, flows in AWM were meaningfully different in March compared to January and February. Long-term flows through February was strong, positive across all asset classes. But this was more than offset by outflows in March. On the flip side, we saw significant net liquidity inflows into our government funds during March, which more than offset prime money market outflows.
+
+Onto Page 4, and some more detail about our first quarter results. Revenue of $29.1 billion was down $782 million or 3% year on year, and net interest income was flat to the prior year due to the impact of lower rates, offset by balance sheet growth and mix and higher CIB Markets NII. And noninterest revenue was down 5%, driven by the significant items I already mentioned, which were largely offset by higher CIB Markets revenue.
+
+Expenses of $16.9 billion were up 3%, driven by higher volume and revenue related expenses, continued investments and higher legal expense, all of which were largely offset by structural expense efficiencies. This quarter, credit costs were $8.3 billion, including a net reserve build of $6.8 billion, reflecting the impacts of COVID-19 and net charge-offs of $1.5 billion in line with prior expectations.
+
+Now, turning to Page 5, we have some more detail on the reserve builds. Our net reserve build of $6.8 billion for the quarter consists of $4.4 billion in consumer, predominantly Cards, and $2.4 billion in wholesale, with builds primarily due to impacts of COVID-19 as well as lower oil prices. This reserve increase assumes in the second quarter that U.S. GDP is down approximately 25% and the unemployment rate rises above 10%, followed by solid recovery over the second half of the year.
+
+In addition to these macro assumptions specific to each business, our consumer reserve build reflects our best estimate of the impact of payment relief that we are providing to our customers as well as the federal government stimulus programs.
+
+And in wholesale, the majority of the build is in sectors most directly impacted by COVID-19, such as in consumer and retail and also in oil and gas. We expect other sectors to be impacted to a lesser extent, if we have a way to prolong downturn. We have also assumed that the stress in oil and gas continues with WTI remaining below $40 through the end of 2021.
+
+After we closed the books for the quarter, our economists updated their outlook, which now reflects a more significant deterioration in U.S. GDP and unemployment. If that scenario were to hold, we would be building in the second quarter and build could be meaningfully higher, in aggregate, over the next several quarters relative to what we took in the first quarter. A primary unknown is the duration of the crisis, which will directly impact losses across our portfolio.
+
+With that being said, our consumer portfolio skews more prime than the industry average. And the effectiveness of government support, customer relief and enhanced unemployment benefits, while uncertain, undoubtedly will act as mitigant to the losses. And so even though our losses will be material, we will be doing what we can to help our customers recover from this crisis and help our clients stay in business.
+
+Now, moving to balance sheet and capital on Page 6. Our balance sheet, capital and liquidity going into this crisis were incredibly strong and, importantly, allowed us to facilitate client needs in a period of strength. And that, combined with our earnings power, is an extraordinary base to absorb the inevitable losses to come.
+
+For the quarter, we distributed $8.8 billion of capital to shareholders, which includes $6 billion in net share repurchases up to March 15th. Since then, we stopped our buybacks, which was both a prudent decision at the time and consistent with what we always say, which is that we would prefer to use our capital to serve our customers and clients. This capital distribution outweighed our earnings for the quarter, and this coupled with significant RWA growth resulted in a decline in our CET1 ratio to 11.5%.
+
+On RWA, which you can see on the bottom right of the page, the key drivers of growth were market volatility, which should subside over time, and more importantly, an increase in lending at this critical time for our clients. Going forward, in order to leverage our balance sheet to serve our clients, we are prepared to use our internal buffers, which may mean our CET1 ratio falls below our target range; and if necessary, we can also use regulatory buffers to go below our 10.5% minimum. It's worth noting here, that an environment like this is precisely why we have the buffers in the first place.
+
+We currently also have capacity and intend to continue to pay the $0.90 dividend, pending Board approval. And as you can see in the CET1 walk on the bottom left, it is a small claim on our capital base.
+
+And before we move on, just a moment on liquidity. Even with everything we facilitated, our liquidity position remains strong. And looking forward, it's helpful to remember that we have significant liquidity resources beyond HQLA, including the discount window if need be.
+
+Now, turning to the businesses, starting with Consumer and Community Banking on Page 7. CCB reported net income of $191 million, including reserve build of $4.5 billion. January, February, showed a continuation of strength across the business, but again March showed a major shift in trends. And across our consumer segments, we saw a drastic deceleration in spend across all forms of payments and a decline in origination volumes, except in the mortgage refi market. And on the small business side, we saw significantly reduced inflows in merchant processing activity, early signs of pressure on payment and delinquency rates as well as line utilization, and increased demand for credit.
+
+Turning back to the results, revenue of $13.2 billion was down 2% year-on-year. In consumer and business banking, revenue was down 9% driven by deposit margin compression, partially offset by strong deposit growth of 8% that accelerated in the quarter.
+
+Deposit margin was down 56 basis points year-on-year and we expect it to decline further, given the current rate environment. Home lending revenue was down 14%, driven by lower net servicing revenue and lower NII, partially offset by higher net production revenue. And in Card and Auto, revenue was up 8%, driven by higher Card NII on loan growth and margin expansion. Average Card loan growth was 8% with sales up 4% over the quarter, driven by January and February activity.
+
+Expenses of $7.2 billion were up 3% driven by revenue related costs from higher volumes as well as continued investments in the business, partially offset by structural expense efficiencies.
+
+And lastly on this slide, credit costs included the $4.5 billion reserve build I mentioned earlier and net charge-offs of $1.3 billion driven by Card and consistent with prior expectations.
+
+Now, turning to the Corporate and Investment Bank on Page 8. CIB reported net income of $2 billion, and ROE of 9% on revenue of $9.9 billion. Investment banking in the first half of the quarter showed continued momentum from last year. But as the market environment shifted, we saw delays in M&A announcements and completions, postponement of new equity issuance and increased draws on existing lines of credit. At the same time, the investment grade debt market remained open and we helped our investment grade clients raise approximately $380 billion of debt in the quarter across a wide range of sectors.
+
+By contrast, the high yield market was effectively closed, and high yield spreads widened significantly. As a result, our bridge book commitments were marked down by $820 million. And here, it's worth noting, our bridge book exposure is about 1/4 of what it was entering the 2008 crisis and is a higher quality portfolio.
+
+As a result of this backdrop, IB revenue of $886 million was down 49% year-on-year, largely driven by the bridge book markdowns. IB fees were up 3% year on year, and we maintained our number one rank with 9.1% wallet share.
+
+Advisory was down 22%, not only due to a tough compare, but also reflecting delays in regulatory accruals pushing out the closing of certain large deals. We did, however, complete more deals than any other bank this quarter.
+
+Equity underwriting was up 25% versus the challenged first quarter last year and we saw strong activity in January and February before the market effectively closed in March. And debt underwriting was up 15%, and an all-time record. We maintained our Number-One rank with 9.5% share of 90 basis points from 2019. Lending revenue was up 36% year-on-year, driven by the impact of spread widening on loan hedges.
+
+Looking forward, while a rapid recovery in the economy could produce a corresponding rebound in activity, we could also see significant downside risk to our forward-looking pipeline if the downturn is protracted.
+
+Now, moving to Markets. Here, total revenue was $7.2 billion, up 32% year-on-year. It's worth noting that even before the crisis, as we said in Investor Day, Markets performance was strong for the quarter. Then, the growing COVID-19 concerns triggered a major correction of equity markets, significant widening of spreads and a spike in volatility, leading to extraordinary government intervention and a substantial change in monetary policy, followed by a sharp decline in treasury yields. Simultaneously, we also saw a drop in oil prices. This unique combination of events led to further increased client participation and record trading volumes in several products.
+
+Fixed income was up 34%, driven by strong client activity, most notably in rates and currencies and emerging markets. Equity markets was up 28% on strength in equity derivatives, driven by increased client activity. In terms of outlook, it goes without saying that it's too early to project this performance going forward. In fact, low rates and low economic activity may even be a headwind. However, we are in a strong position to continue playing a central role in ensuring the orderly functioning of markets and serving our clients' needs.
+
+And now on the Wholesale Payments, a new business unit we're reporting this quarter, comprised of treasury services, trade finance and the Merchant Services business, which was previously part of CCB. Wholesale Payments revenue of $1.4 billion was down 4% year-on-year, driven by reporting reclassification in Merchant Services.
+
+As clients focused on preserving liquidity, we experienced higher deposit levels in Wholesale Payments throughout the quarter, offsetting revenue headwinds from lower rates and payments activity. In Security Services, revenue was $1.1 billion, up 6% year-on-year. Market volatility drove increased transaction volumes and deposit balances which offset the impact of the market correction on asset balances.
+
+In Wholesale Payments and Security Services, tailwinds from this quarter, like elevated deposit balances, maybe relatively short-lived and more than offset by the impact of low rates and potentially lower transaction volumes If the crisis is elongated.
+
+Credit Adjustments and Other was a loss of $951 million, which was one of the significant items that I mentioned upfront. Credit costs were $1.4 billion, driven by the net reserve build I referred to earlier. And finally, expenses of $5.9 billion were up 5%, driven by higher legal and volume-related expenses and continued investments.
+
+Now, moving on to Commercial Banking on Page 9. Commercial Banking reported net income of $147 million, including reserve build of approximately $900 million. Revenue of $2.2 billion was down 10% year-on-year with lower deposit NII and lower rates and a $76 million markdown on the bridge book, partially offset by higher deposit balances.
+
+Gross Investment Banking revenues were $686 million, down 16% year-on-year compared to a record prior year. While we remain confident in our long-term target, we expect some softness in our pipeline, specifically related to M&A and equity underwriting.
+
+Expenses of $988 million were up 5% year-on-year, consistent with the ongoing investments we discussed in Investor Day. Deposits were up 39% year-on-year on a spot basis and increased about $40 billion during the month of March, with about half of that coming from clients drawing on their credit lines and holding their cash with us as they look to secure liquidity.
+
+End of period loans were up 14% year-on-year, mainly driven by increases in C&I loans in March. C&I loans were up 26% as revolver utilization increased to 44%, which is an all-time high. CRE loans were up 3%, and here the story remains largely unchanged. Higher origination in commercial term lending, driven by the low rate environment, were partially offset by declines in Real Estate Banking as we remain selective.
+
+Credit costs of $1 billion, included the reserve build I mentioned, and $100 million of net charge-offs largely driven by oil and gas.
+
+Now, onto Asset and Wealth Management on Page 10. Asset and Wealth Management reported net income of $664 million with pre-tax margin of 24% and ROE of 25%. Revenue of $3.6 billion was up 3% year-on-year, driven by higher management fees and higher average market levels and net inflows over the past year. And then in addition, we saw record brokerage activity in March related to the recent market volatility. These increases were largely offset by lower investment valuations.
+
+Expenses of $2.7 billion were flat year-on-year with higher investments in the business as well as increased volume and revenue related expenses offset by lower structural expenses.
+
+Credit costs were $94 million, driven by reserve builds from the impact of COVID-19 as well as loan growth. Net long-term outflows were $2 billion and the strength we saw in January and February was more than offset in March. At the same time, we saw $75 billion of net liquidity inflows driven by significant inflows into our industry-leading government funds in March, as I mentioned earlier.
+
+AUM of $2.2 trillion and overall client assets of $3 trillion, up 7% and 4% respectively, were driven by cumulative net inflows, partially offset by lower market levels. Deposits were up 9% year on year on growth in interest bearing products. And finally, loan balances were up 11% with strength in both wholesale and mortgage lending.
+
+Now onto Corporate on Page 11. Corporate reported a net loss of $125 million, revenue was $166 million, a decline of $259 million year-on-year, primarily due to lower net interest income and lower rates, partially offset by higher net gains on investment securities. Expenses of $146 million were down $65 million year-on-year.
+
+And now, let's turn to Page 12 for the outlook. At Investor Day, we showed you a path to 2020 where we expected net interest income to be slightly down from 2019. And obviously, since then, the backdrop has changed significantly. Based on the latest implies and what we know today, we expect to see further pressure from rates, partially offset by balance sheet growth and CIB Markets NII, which results in NII of about $55.5 billion for the full year. And to give you an idea for the second quarter, we expect NII to be $13.7 billion.
+
+On non-interest revenue, it's always difficult to provide meaningful guidance and even more so, given the current heightened level of uncertainty. But based on our best estimates today, we do expect to see headwinds in 2020 compared to 2019. In addition to the two significant items in the first quarter, these headwinds included a $3.5 billion decrease in non-interest revenue, all else equal, which is also due to the impact of rates and as we offset the higher CIB Markets NII, and therefore revenue neutral. We also expect to see pressure on AWM and investment banking fees. And we now expect adjusted expenses for 2020 to be approximately $65 billion, largely due to lower volume and revenue related expenses versus the outlook we provided at Investor Day.
+
+It goes without saying all of this is market dependent and we'll keep you updated on future earnings calls.
+
+So, to wrap up, the challenges we are all facing as the COVID-19 crisis continues to unfold around the globe are unprecedented. Although we don't quite know what the past will look like going forward, what we do know is that we will continue to be there for our employees, clients, customers, and communities, as we always have been; and we have the talent, resources, and operational resiliency to do so.
+
+Our employees have proven that being resilient is not just about maintaining operations, it's also about culture. And that feels stronger than ever with our teams around the world working harder than ever to continue to serve our clients, customers, and communities. We've never been more proud of our people and we simply can't thank them enough.
+
+And with that, operator, please open the line for Q&A.
+
