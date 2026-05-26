@@ -1,0 +1,130 @@
+Operator
+
+Good morning. I will be reading a statement on behalf of Morgan Stanley. Today's presentation will refer to Morgan Stanley's earnings release and financial supplement, copies of which are available at morganstanley.com.
+
+Today's presentation may include forward-looking statements that are subject to risks and uncertainties that may cause actual results to differ materially. Please refer to our notices regarding forward-looking statements and non-GAAP measures that appear in earnings release. This presentation may not be duplicated or reproduced without our consent.
+
+I will now turn the call over to Chairman and Chief Executive Officer, James Gorman.
+
+James P. Gorman -- Chairman and Chief Executive Officer
+
+Thank you, operator. Good morning, everyone. Thank you for joining us. We sincerely hope that you, your families and your colleagues are all well on these very difficult times. We're obviously in the middle of a public health crisis, one that is devastating to many; and along with it, the world is being tested from a humanitarian, economic and financial perspective. As long as the duration and scale of the pandemic and economic slowdown remains uncertain, I expect markets will continue to be fragile. The resulting stress on the global economy is real and will take time to recover.
+
+The speed of the actions taken by policymakers has been remarkable. Central banks acted swiftly around the globe. The policies have been thoughtful. Fiscal stimulus measures and support for small businesses and individuals have been put into place. And unlike the global financial crisis, the banking system is being leveraged to be a critical part of the solution.
+
+The Federal Reserve and other central banks are taking steps to support the economy and we wanted to do our part. In March, we voluntarily suspended share repurchases. We do not expect to restart these repurchases until we have a better understanding of the shape and depth of the economic recovery. Despite these extremely challenging times, our business has held up remarkably well. Of course, we saw an increase in our credit provisions and declines in investment revenues and investment management. And they were natural consequences of the market turmoil, namely the decline in deferred compensation plan investments, and increase in the amount of prepayment amortization.
+
+Notwithstanding all of this, the firm generated $9.5 billion of revenues and an ROTCE of 9.7%. Importantly, the operating plan functioned well. The result serve as a testament to the stability of the business mix and the balance we worked diligently to achieve over the last decade.
+
+Ultimately, the outlook is much more important than the last couple of months. Shorter term, the decline in asset prices, zero interest rates and a potential slowdown in activity levels will have an impact. With respect to our strategic objectives, which we outlined our goals at the beginning of the year, we said we assumed a normal market environment. This environment is anything but normal.
+
+Given the circumstances, the objectives we laid out would take longer to achieve. We will have much greater visibility to discuss these objectives toward the end of this year. Despite these short-term challenges, our franchise is strong, our strategy clear and consistent. Coming into this, we were conservatively positioned and this remains true today.
+
+Let me finish with a few words on how we have responded to this crisis. All of our employees and I are working hard to do our best to support our clients and communities. We've benefited in this period from robust business planning and from years of investment in our technology infrastructure. These teams are doing an unbelievable job in this environment. We adapted quickly to a new way of life. Over 90% of our employees are currently working from home as we continue to serve our clients globally.
+
+I frequently speak of the strength of Morgan Stanley's culture and our tenured leadership team. During periods of crisis, that matters even more. Our operating committee has worked together in various ways for over a decade. Nearly all of us were at Morgan Stanley during the financial crisis. The strength of those relationships enabled our team to react to recent events in an expedited, coordinated manner, allowing us to quickly pivot to work from home model.
+
+We will be equally thoughtful as we think about a path toward returning to work, whenever that is deemed safe by health officials and our local governments. I could not be proud of this firm. It is during times like this that you take a measure of an organization, and my esteem for Morgan Stanley is now even higher than it was before.
+
+We will all get through this and we will have all learned a great deal. And in the meantime, we will continue to do our part for broader society.
+
+I will now turn the call over to Jon, to discuss the results of the first quarter in greater detail, our perspectives on the outlook given the current environment, and then take it back where we'll both answer your questions. Thank you. Jon?
+
+Jonathan Pruzan -- Chief Financial Officer
+
+Thank you, James, and good morning. In the first quarter, firm revenues were $9.5 billion, down 13% sequentially. First quarter PBT was $2.1 billion and EPS was $1.01, resulting in an ROTCE of 9.7%. Our business mix and strategy, which emphasizes more durable sources of revenues, supported our results during the recent market disruption.
+
+The quarter was divided into distinct periods. January and February were characterized by buoyant risk assets, rising markets and engaged clients. March proved to be unprecedented. As the COVID-19 virus spread globally and shelter-in-place orders became common, we saw significant volatility volumes and market dysfunction. Historical relationships broke down and liquidity dried up. Clients reacted by reducing risk and raising cash. The Federal Reserve and Central Banks acted quickly and aggressively with large scale and targeted actions to restore market mechanics and liquidity.
+
+During this time, we remained close to our clients as we all manage the challenges together. We moved swiftly to a work from home strategy. 60% of our employees were working from home by mid-March and 90% plus today. Over this time period, volumes rose to 2.5 times the average levels and margin calls rose to 4 times the average levels.
+
+Our technology and operations performed quite well. During this period of volatility, we also risk-managed well. With market function and liquidity essentially restored, clients are weighing the major factors at play, including significant unemployment and economic disruption versus monetary and fiscal actions larger than any others in history.
+
+During this period, the firm extended credit and intermediated trading, responding to client needs and supporting open and functioning markets. First, we extended credit to clients across the firm. We financed key transactions to help COVID impacted clients across sectors, including transportation, healthcare, leisure, and consumer among others. We also saw approximately $13 billion gross drawdowns, $5 billion of new facilities in corporate lending and $3 billion retail commitments.
+
+We supported our clients by intermediate trading, including managing record volumes across voice and MSET. In March, Morgan Stanley was an underwriter of over $70 billion of corporate and municipal bonds globally. Additionally, we continue to work with clients to access the new Federal Reserve and Treasury programs to meet their financing needs.
+
+We remain focused on managing our controllable expenses. Total non-interest expenses were $7.3 billion for the quarter. Non-compensation expenses were $3.1 billion, while compensation expenses were $4.3 billion.
+
+We tightly managed professional services spend and saw declines in marketing business development, given the global shutdown. We continued our efforts to reduce dependence on contingent workers, leveraging our global in-house centers. These efforts were more than offset by increases in activity related expenses including BC&E and transaction taxes.
+
+Now, to the businesses. Our Institutional Securities business reported revenues of $4.9 billion. Robust results in Sales and Trading were offset by mark-downs on held-for-sale loans, increased loan loss provision and lower levels of investment banking activity. Non-compensation expenses increased 14%, driven by higher BC&E and transaction taxes on elevated sales and trading volumes and an ACL on unfunded commitments of $115 million.
+
+In the face of uncertain markets, we supported our institutional clients with insightful content. Our research team generated almost 1.5 million interactions through written pieces, webcast and conference calls related to COVID-19. Clients remain engaged, and since the markets have begun to stabilize, their focus has shifted from macrosomatic reads to interest in single name securities. Our world class intellectual capital supported by innovative distribution remains a key differentiator when servicing clients.
+
+Investment Banking generated revenues of $1.1 billion. The environment weighed on results across products and regions. First, underwriting activity was impacted as the global shelter-in-place action started to roll across the world, followed by significant volatility which dampened M&A dialog and announcements.
+
+Advisory revenues declined 45% sequentially, reflecting lower completed M&A industry volumes. Equity underwriting revenues were also impacted, declining 20% versus the previous quarter. Industry activity fell off meaningfully with global IPO volumes declining by over 70% compared to the prior quarter. This was partially offset by an increase in accelerated primary offerings and secondary activity as we helped clients across the globe monetize equity stakes.
+
+Fixed income underwriting declined 11% versus the prior quarter. While event driven activity was limited, investment grade bond issuance reached record levels, especially in March.
+
+The spread of COVID-19 and subsequent market volatility have disrupted deal activity. However, new issue markets are slowly opening with a few IPOs and high yield deals being completed over the last few weeks. Issuers continue to evaluate financing needs, looking to strengthen their balance sheets and raise liquidity.
+
+We have a strong pipeline across products and equity underwriting and a robust pipeline in investment grade and non-investment grade business, which are dependent on market access. We would expect IPO activity to remain muted and we'll have to see whether other markets continue to open around the globe.
+
+Equity sales and trading is number-one globally and revenues increased 26% sequentially to $2.4 billion, with strong performance across all business lines and particular strength in Asia.
+
+Cash results were robust, reflecting the nearly 50% increase in global market volumes compared to the prior year. Derivative revenues increased sequentially as we facilitated client needs during periods of severe market dislocation. Partially offsetting the results were losses on collateral calls and announcements in Europe of interruptions to dividends. In March, 40% of the Euro Stoxx announced dividend cuts or suspensions in 2020.
+
+Prime Brokerage performed well on higher levels of activity, partially offset by slightly lower average balances. In mid-February, we reached a record level of gross balances only to then see a sharp reversal. In late March, we reached the recent low in balances as market levels declined and we saw our clients significantly degress.
+
+We entered the second quarter with lower spot balances down close to 30%, and a more challenged environment in Europe. Fixed Income Sales & Trading produced revenues of $2.2 billion, increasing 73% from the prior quarter. Strong client activity in Macro and Commodities drove robust results. Multi-year efforts to reshape this business, focusing on deepening client penetration, increasing velocity of balance sheet and greater trading discipline, contributed to the results. Macro performance was very strong across products, particularly over the last weeks of the quarter. The business benefited from higher levels of client activity and wider bid offer spreads.
+
+Micro revenues were more challenged and declined sequentially. Performance was strong within credit corporates, which saw good velocity. However, this is offset by mark-downs on inventory in munis and securitized products, which were negatively impacted by the dislocated market and significantly wider spreads. Strong commodity results were supported by increased client activity driven by meaningful swings in energy and metal prices.
+
+Other Sales and Trading increased significantly in the quarter. This line includes economic hedges on our held-for-sale loans, which benefited from the spread widening. This was partially offset by movements related to deferred cash compensation plans, which is also recognized in this line. Losses in investments were driven by a markdown on a commodities investment that was impacted by movements in energy markets. And losses within other revenues reflect mark-to-market adjustments on held-for-sale loans and a provision for credit losses for funded held-for-investment loans.
+
+Looking across other sales and trading and other revenues, three main factors drove approximately $1.1 billion of losses embedded in these two lines: first, mark to market losses, net of hedges, on our $47 billion held-for-sale portfolio; second, ACL associated with our $49 billion funded HFI [Phonetic] portfolio. Together, the ACL provision and mark-to-market, net of hedges, accounted for approximately $900 million of the aforementioned loss; and third, losses from investments associated with employee deferred cash-based compensation plans represent approximately $200 million of the law.
+
+Now, I will give some more color around our CECL provisioning for our $49 billion held-for-investment loan portfolio. Provisions for loan losses were $273 million and our March 31 allowance for loans was $529 million. This represents an 82% increase versus our Day-1 CECL allowance. We had approximately $32 million of charge-offs, or 7 basis points, representing our first charge-offs in the last 15 months. And as you can see on Page 10 of the financial supplement, ISG loans were $76 billion dollars, $64 billion designated as loans held-for-investment and $36 billion held-for-sale or fair value.
+
+Held-for-investment loans were up $11 billion, 29%, driven almost entirely by corporate drawdowns. Of the HFI portfolio, $15 billion is corporate, $7 billion is commercial real estate and $26 billion are secured lending facilities. Our allowance for corporate loans is 1.7% and our allowance for CRE is 2.4%.
+
+Looking at the entire portfolio, including the 53% secured lending facilities, our total allowance is 1.1%. Our secured lending portfolio has attractive look through LTVs and structural protections, and we are the sole lender on approximately 2/3 of this portfolio.
+
+Now, turning to Wealth Management. We reported first quarter revenues of $4 billion and pre-tax profit of $1.1 billion. The pre-tax profit margin was 26.1%. In the quarter, however, results were materially impacted by two negative factors: movements in investments associated with employee deferred cash-based compensation plans, and prepayment amortization. The combined impact was approximately $500 million to revenues and 150 basis points to margin. The underlying fundamentals of this business remain quite strong.
+
+As indicated in our Form 10-K, as of February 2020, we had granted approximately $3 billion of deferred compensation obligations for wealth management employees. The notional value of these awards is allocated at our employees' discretions. Although, subject to quarterly reallocations, generally, 60% is held in equity investments. Given the S&P Index declined 20% in the first quarter, the negative revenue impact was elevated. While changes in compensation expense related to these investments will generally be offset by changes in revenue, there can be some timing differences due to vesting schedules in a given period.
+
+Transactional revenues were $399 million. After excluding the impact of DCP, transactional revenues was up more than 15% versus prior quarters. Client activity was extremely strong, reflecting high levels of engagement throughout the quarter as clients repositioned portfolios and moved into cash and other short-term securities. Today, clients sold approximately 20% of assets in cash and short-term securities.
+
+Asset Management revenues increased slightly from the prior quarter. Higher asset levels at the beginning of the first two months of the quarter helped insulate these revenues from the subsequent market decline in March. Total client assets of $2.4 trillion declined 11% sequentially, largely end market depreciation. Positive flows partially offset these lower asset levels.
+
+We had fee-based flows of $18 billion and generated strong net new assets at a pace above our historical run rate, highlighting the stability and health of this business. We saw improvements in new asset flows over an already strong 1Q19 from both existing and new retail clients. Our growth strategy is working as clients are seeking professional advice during turbulent times, particularly with increased complexity.
+
+Strong loan growth continued in the first quarter. Lending balances increased 15% versus the prior year to $83 billion, driven by tailored and mortgages. The loan portfolio continues to perform extremely well. We saw elevated margin calls in the quarter with limited losses. The mortgage portfolio had 90 day plus, delinquencies declined slightly to 21 basis points.
+
+Currently, we've had borrowers call for forbearance of $690 million in mortgage loans or less than 2%. Our smallest portfolio, the $14 billion tailor book is also performing well with just a handful of special mentioned loans.
+
+Net interest income declined 13% to $896 million. The benefits of higher lending and a $31 billion increase in BDP balances were more than offset by lower interest rates and the resulting higher projected mortgage prepayments.
+
+In order to understand the impact of lower interest rates, it's helpful to look at our historical disclosures. At year-end, we disclosed that 100 basis point instantaneous shock to interest rates would reduce NII for the U.S. banks by approximately $640 million over the next 12 months. While this disclosure covers both banks, some of which relates to ISG, the vast majority of the NII is in Wealth Management. Assuming rates don't rise for the remainder of the year, the disclosed figure is broadly representative of the impact of lower rates on Wealth NII.
+
+Total expenses were $3 billion. The sequential decline was driven by lower compensation expense, principally related to the movements in DCP-related investments. Non-compensation expenses also declined from the fourth quarter, reflecting typical seasonality.
+
+Finally, we continue to make progress on the integration of Solium, now part of Morgan Stanley network [Phonetic]. This offering is resonating with corporate clients. In the quarter, we added over 100 new clients to the platform for stock plan and financial wellness services, bringing the total new clients since we announced the acquisition to over 455.
+
+Investment Management reported revenues of $692 million in the first quarter. We had extensive engagement with our global clients throughout the quarter and the business continued to see strong net flows despite the challenging environment.
+
+Total AUM rose 6% to $584 billion. Long-term net flows were $6.7 billion, driven by capital being deployed within alternatives and inflows into public equity and fixed income funds. Our global active concentrated equity strategies continue to outperform their benchmarks. Total net flows of $57 billion benefited from a significant new long-term client partnership and our liquidity business.
+
+Asset management fees of $665 million declined 10% sequentially. Higher management fees on higher average AUM were more than offset by lower performance fees. As a reminder, performance fees are mostly recognized in the fourth quarter. Asset management fees were up 8% versus 1Q19.
+
+Investment revenues were $63 million in the quarter. We saw meaningful markdowns and reversals of carried interest in our real estate infrastructure and PE funds, offset by a significant gain and an underlying investment subject to sales restrictions within our Asia private equity fund. Also of note, the business was able to see some successful monetization despite the difficult environment.
+
+Total expenses decreased 40% sequentially, largely driven by lower accrued carried interest compensation. Non-compensation expenses also declined on lower BC&E and professional service expense.
+
+Turning to the balance sheet. Total spot assets rose to $948 billion as we deployed our balance sheet to support clients during this challenging period and retail client-site safety increasing our deposits by $45 billion.
+
+Advanced RWAs increased to $426 billion, while standardized RWAs increased to $416 billion. The increase in RWAs was driven primarily by increased client trading activity and market volatility, as well as lending. As a result, our advanced common equity Tier 1 ratio, which is our applicable ratio for the first quarter, declined to 15.3%. As a reminder, our stress capital buffer will be calculated off of our standardized approach, which was 15.7%.
+
+In the first quarter, we repurchased approximately 29 million shares or $1.3 billion of common stock, and the Board declared a $0.35 dividend per share. Our tax rate was 18.5% for the quarter, excluding $31 million of intermittent net discrete tax benefits. Our tax rate will increase in subsequent quarters and we continue to expect our full-year 2020 tax rate will be approximately 22% to 23%.
+
+With respect to our intent to acquire E*Trade, the HSR waiting period has expired. We filed our application with the Federal Reserve in March, and we will soon file the proxy statement-prospectus. E*Trade will hold the shareholder vote this summer, and we remain on-track to close the transaction in the fourth quarter.
+
+Taken in full, we are very pleased with the firm's results and stability of the business model. We will continue to benefit from the significant repositioning of our balance sheet and business strategy over the last decade. Our client driven model combined with strong capital and liquidity will help deliver relative earnings strength in this uncertain environment. But there are several factors that will impact our earnings power in the near term, including lower asset values and balances, interest rates near zero, as well as volatility and economic uncertainty impacting Capital Markets and M&A volumes.
+
+The second half of the year remains uncertain and the path of the economy will be driven by the time it takes to resolve the health crisis and the impact of the unprecedented fiscal and monetary response.
+
+With that, we will now open the line for questions.
+

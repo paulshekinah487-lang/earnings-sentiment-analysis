@@ -1,0 +1,128 @@
+Operator
+
+Ladies and gentlemen, thank you for standing by and welcome to Halliburton's First Quarter 2020 Earnings Call. Please be advised that today's conference is being recorded. I would now like to hand the conference over to Abu Zeya, Head of Investor Relations. Please go ahead, sir.
+
+Abu Zeya -- Sr. Director, Investor Relations
+
+Thank you, Jiji. Good morning and welcome to the Halliburton first quarter 2020 conference call. As a reminder, today's call is being webcast and a replay will be available on Halliburton's website for seven days. Joining me today are Jeff Miller, Chairman, President and CEO; and Lance Loeffler, CFO.
+
+Some of our comments today may include forward-looking statements, reflecting Halliburton's views about future events. These matters involve risks and uncertainties that could cause our actual results to materially differ from our forward-looking statements. These risks are discussed in Halliburton's Form 10-K for the year ended December 31, 2019, recent current reports on Form 8-K and other Securities and Exchange Commission filings. We undertake no obligation to revise or update publicly any forward-looking statements for any reason.
+
+Our comments today also include non-GAAP financial measures that exclude the impact of impairments and other charges, as well as expenses related to the early extinguishment of debt. Additional details and reconciliation to the most directly comparable GAAP financial measures are included in our first quarter press release and can also be found in the Quarterly Results and Presentation section of our website.
+
+After our prepared remarks, we ask that you please limit yourself to one question and one related follow-up during the Q&A period, in order to allow time for others who may be in the queue.
+
+Now, I will turn the call over to Jeff.
+
+Jeff Miller -- Chairman, President and Chief Executive Officer
+
+Well, thank you, Abu, and good morning, everyone. We are speaking with you today as billions of people are under some form of quarantine in their homes, businesses and schools are disrupted and worldwide travel has generally come to a halt. The human and economic impact from the COVID-19 pandemic is being felt globally. At the same time, our industry is facing the dual shock of a massive drop in global oil demand, coupled with a resulting oversupply.
+
+As the world is battling the pandemic, I thank our employees for their continued focus during these difficult times. We are critical part of the global energy infrastructure and an essential service to satisfy both immediate and long-term energy needs.
+
+On our customers worksites and within our facilities, Halliburton People are getting the job done, while taking the appropriate steps to protect themselves and others. Our tiered Crisis Response model has been road tested in the past to hurricanes and other catastrophic events and it is working well in the current circumstances. Globally, our corporate crisis team monitors the evolving situation across all of our core functions; from health and safety to IT infrastructure, to supply chain, and provides guidance to support our local response plans.
+
+Locally, every country has reviewed their emergency response plans, assessed them for business continuity and activated them in alignment with local authorities. To ensure the safety for all who must go to a work location, we've provided specific direction about how to work in a COVID-19 world, and elevated cleaning protocols for our facilities and equipment. We've adjusted shifts and rotations to maximize social distancing, as well as implemented varying levels of medical screenings as appropriate. We are maximizing remote work where possible and are encouraging our employees and customers to collaborate virtually using information sharing tools.
+
+Now, let me cover some headlines for what was a solid first quarter of 2020. We finished the quarter with total company revenue of $5.0 billion, a 12% decrease year-over-year, and adjusted operating income of $502 million, an increase of 18% from the first quarter of 2019.
+
+Our Completion and Production division revenue declined 19% compared to the first quarter of 2019, and operating margin expanded 170 basis points. our Drilling and Evaluation division delivered a strong quarter. Revenue was flat year-over-year and operating margin grew 450 basis points. Our North America revenue declined 25% due to lower activity in pricing in U.S. land. Internationally, we delivered 5% growth this quarter. This marks the 11th consecutive quarter of year-over-year revenue increases for our international business.
+
+Finally, free cash flow was effectively neutral for the quarter, which is a significant improvement compared to the first quarter of 2019, and reflects our focus on driving more working capital efficiencies.
+
+The first quarter seems like a long time ago. But it is an important demonstration of some key facts. Here's what it tells me: We make commitments and execute on them quickly; we completed the previously announced $300 million in cost savings; we demonstrated the ability to improve our margins and lower our cost of service delivery; and the Halliburton team is well prepared to adjust and deliver under any market conditions.
+
+Although we came into 2020 with improving expectations for our financial performance in the North America and international markets, the dislocations resulting from the pandemic and the precipitous decline in oil prices have significantly altered those expectations.
+
+Let me describe to you what I see ahead of us, recognizing that the market is still in motion. Activity is in free fall in North America and is slowing down internationally. We cannot predict the duration of the COVID-19 pandemic impact on demand or the pace of any subsequent recovery. At a minimum, we expect the decline in activity to continue through year-end. We have not experienced anything like the impact of COVID-19 pandemic before. Under adverse market conditions, we know what buttons to push and what levers to pull, and we're doing so with swiftness and resolve. Today's market calls for deeper, immediate actions. We're significantly reducing costs, cutting capex and managing working capital. I will give more detail on each of these actions in a few minutes.
+
+We are unwavering on our commitment to safety and service quality for our customers and our focus on cash flow generation and industry-leading returns for our shareholders. And we believe our near-term actions will not only temper the impact of activity declines on our financial performance but also ensure that we are in a strong position financially and structurally to take advantage of the market's eventual recovery.
+
+Before we get into the operational discussion, let me address a few topics I deem critically important in the near term. First, I believe, Halliburton has sufficient liquidity, approximately $5 billion, including cash on hand and our undrawn credit facility. Second, in the first quarter, we successfully executed both a tender offer for some of our bonds and a debt-offering. As a result, we retired $500 million in total debt and extended the maturity for our $1 billion of senior notes out to 2030. We have focused on debt reduction over the last few years and we entered this downturn with $2.6 billion less debt than in 2016.
+
+We also have a very manageable debt maturity profile with only $1.3 billion coming due through 2024. Deleveraging remains a key priority. We believe our free cash flow generation will be sufficient to pay down upcoming debt maturities in the normal course of business.
+
+Finally, our dividend is a lever we can pull, based on our market outlook and valuations. Our Board and Management review the dividend quarterly and will act prudently to make adjustments for the long-term success of our business. Let me be clear, we have no intentions to increase leverage to maintain the dividend. We also do not intend to allow the dividend to prevent us from being structurally and financially positioned to take advantage of the eventual market recovery.
+
+Now, let me describe in more detail what I see unfolding in the markets globally, how we are prepared today compared to the most recent downturn and the actions we are taking to adjust our business to today's market. The market in North America is experiencing the most dramatic and rapid activity decline in recent history. Our customers continue to revise their capital budgets downwards as they swiftly adjust spending levels in response to the lower commodity prices. Right now, North America E&P capex is trending toward a 50% reduction year-on-year in 2020. Since mid-March, U.S. land rig count has fallen 34% and is expected to continue declining from here. With prices at the wellhead near cash breakeven levels, we expect activity in North America land to further deteriorate during the second quarter and remain depressed through year-end, impacting all basins.
+
+Our outlook for the international markets has also changed. In addition to the collapse of oil prices, the industry is dealing with activity interruptions due to the coronavirus pandemic. COVID-19 had minimal impact on our international operations in the first quarter, but the second quarter will be different. We are seeing restricted movements within countries, quarantine requirements for rotational staff, logistics delay due to third-party personnel reductions, and in some cases entire country closures. Different markets are impacted differently, and this will lead to significant operational disruptions at least through the second quarter.
+
+Beyond these near-term headwinds, certain international customers are also fundamentally reducing capital spending, deferring exploration and appraisal activity and looking to cut costs on their major ongoing projects. We expect international spending to be down in the range of 10% on a full year basis. Opex plus production decisions and the duration of the pandemic-related demand and activity disruptions will ultimately determine how much the international spending declines this year.
+
+International projects and contract structures tend to be longer term oriented. However, in the face of these unprecedented circumstances, our customers IOCs, NOCs, and independents alike, are all reassessing their priorities, with some reacting more swiftly than others. We believe the activity changes internationally will not be uniform across all markets. We anticipate that the least affected markets will be the OPEC countries in the Middle East, while Offshore Africa and Latin America may see double-digit declines this year. As operators in North America and international markets look for ways to cut spending, pricing is a lever they're seeking to pull.
+
+We continue to make pricing decisions based on our overall return's expectations for the business. Given the oversupply of fracturing equipment in North America, pricing levels in this market were already at historical lows coming into 2020. Internationally, the pricing increases we were starting to see will take a pause. We will work to improve efficiencies as a means to optimize costs for both our customers and Halliburton.
+
+It is important to remember that we're coming into this downturn from a very different place than in 2014. And we believe these differences prepare us better for what lies ahead.
+
+Spending in the North America market was down in 2019. In response, we introduced a new playbook that prioritized returns over market share. We restructured our North America organization, rationalized our real estate footprint, completed a cost-out program, and started addressing our fixed cost through the service delivery improvement strategy. We clearly had momentum from these efforts coming into 2020.
+
+Our more efficient Q10 pumps now represent 100% of our fracturing fleet. We also have the largest number of dual fuel and Tier 4 diesel fuel engines in the market. This fleet composition delivers differentiated service quality and efficiency and will ultimately drive the flight to quality when the market stabilizes in North America.
+
+We closed key technology gaps in drilling and open-hole wireline, added new artificial lift and specialty chemicals capabilities to our portfolio, and continue to lower our costs across various product offerings. This has taken significant technology spend, which is now largely behind us.
+
+Our capex in 2019 was down year-over-year and we further reduced capex coming into 2020 to drive capital discipline across all of our business segments. As a result, we do not have the significant oversupply of tools and equipment in the international markets. We have built an operating machine to be effective and successful across cycles. Unfortunately, as we enter this downturn, we will need to make some painful decisions and I am aware that this will cause great difficulty for our impacted employees.
+
+We are implementing the following set of measures that will further reduce our costs and improve our cash generation ability as our customers continue to reduce their spending levels. We are reducing our capital expenditures for 2020 to about $800 million, roughly 50% from 2019 levels. We believe this level of spend will allow us to invest in our key strategic areas, while continuing to support our business in the active markets. We will take out about $1 billion of annualized overhead and other costs across our entire business, with most of it happening in the next two quarters. To accomplish this, we are streamlining our global and regional head count, consolidating multiple facilities and removing another layer of operations management in North America.
+
+We are accelerating our service delivery improvement strategy in North America, redesigning the way we deliver our fracturing services to lower our unit cost and improve margins and returns in the long run. We are cutting our technology budget by 25%. We have stopped discretionary spend across the business and we have eliminated salary increases for all personnel this year, and I and other members of the executive committee have taken pay cuts. Additionally, we will make variable headcount adjustments and rationalize our assets to be in line with the activity reductions we anticipate. As we look to reduce our own input costs, we are also renegotiating prices in terms with our suppliers. Finally, we will continue our efforts on working capital improvements across all three of its components.
+
+We believe these actions are necessary given the current environment and will help protect our balance sheet and drive cash flow and returns for our shareholders. As we steer the company through this downturn, we remain focused on the underlying drivers of success and our long-term strategic objectives. We will continue to execute our value proposition, deliver value and efficiency across our product offerings, and remain focused on safety and service quality.
+
+We remain committed to being leaders in North America by delivering on our low-cost service improvement strategy. We continue to closely collaborate with our customers and partners on leveraging digital solutions to reduce non-productive time and improve labor and asset efficiency.
+
+As I've stated on prior calls, we are in the early innings of our artificial lift and specialty chemicals growth internationally, and we plan to continue down this path. We believe these businesses give us exposure to a later cycle market with long-term growth potential.
+
+We will continue to spend on technology that reduces our operating costs. We believe this is necessary for the future success of our business. We've been through downturns before. As the market unfolds from here, we believe we have the people, the technology, and the depth of experience to outperform our competitors. If required, we will take further actions to adjust to the evolving market.
+
+If I've learned something from all of the downturns, I've been through in my career, it is that the industry always bounces back. This downturn, although the most severe we have seen in a generation, will be no different. I believe it will reshape our industry and position it better for the next cycle. At some point, returning global economic and oil demand growth, market balancing supply actions by key producing countries and declining non-OPEC production, will likely lead to a new reinvestment cycle; and I believe Halliburton will emerge stronger on the other side, like we always have.
+
+Now, I will turn the call over to Lance to provide more details on our first quarter financial results. Lance?
+
+Lance Loeffler -- Executive Vice President and Chief Financial Officer
+
+Thank you, Jeff, and good morning. Let's begin with an overview of our first quarter results compared to the first quarter of 2019. Today, our total company revenue for the quarter was $5 billion, a decrease of 12% year-over-year, while adjusted operating income was $502 million, an 18% increase. As Jeff mentioned, during the quarter, we accomplished the remaining $100 million of the announced $300 million in annualized cost reductions.
+
+In the first quarter, we recognized approximately $1.1 billion of pre-tax impairments and other charges to further adjust our cost structure to current market conditions. These charges consisted primarily of non-cash asset impairments mostly associated with pressure pumping equipment, as well as severance and other costs.
+
+In addition, based on the current market environment and its expected impact on our business outlook, we recognized a $310 million non-cash tax adjustment to our deferred tax assets.
+
+Now, let me take a moment to discuss our divisional results in more detail. In our Completion and Production division, revenue was $3 billion, a decrease of $700 million or 19% when compared to the first quarter of 2019. Operating income was $345 million, a decrease of $23 million or 6%. These results were primarily due to lower pressure pumping activity and pricing and reduced completion tool sales in North America, partially offset by increased cementing activity and completion tool sales in the Eastern Hemisphere.
+
+In our Drilling and Evaluation division, revenue was $2.1 billion, which was flat from the first quarter of 2019, while operating income was $217 million, an increase of $94 million or 76%. Higher activity for drilling-related services in the North Sea and Asia more than offset reduced activity and pricing for multiple product service lines in North America land and lower fluids activity in Latin America.
+
+Moving on to our geographical results. In North America, revenue was $2.5 billion, a 25% decrease when compared to the first quarter of 2019. This decline was mainly due to reduced activity and pricing in North America land, primarily associated with pressure pumping, well construction and completion tool sales. This decline was partially offset by increased artificial lift activity and specialty chemical sales in North America land and stimulation activity in the Gulf of Mexico.
+
+In Latin America, revenue was $516 million, a 12% decrease year-over-year, resulting primarily from reduced fluids activity and stimulation services across the region, particularly in Argentina. This was coupled with decreased activity in multiple product service lines in Brazil, Ecuador and Colombia. These declines were partially offset by increased activity across multiple product service lines in Mexico and Guyana.
+
+Turning to Europe/Africa/CIS, revenue was $831 million, an 11% increase year over year, resulting primarily from increased drilling-related activity in the North Sea, improved well construction activity in Russia, and increased completions activity in Algeria, partially offset by reduced activity in multiple product service lines in Ghana.
+
+In Middle East/Asia, revenue was $1.2 billion, a 9% increase year-over-year, largely resulting from increased activity in the majority of product service lines in the United Arab Emirates, Indonesia, and Malaysia, which was partially offset by lower project management activity in India.
+
+In the first quarter, our corporate and other expense totaled $60 million and net interest expense was $134 million. Our normalized effective tax rate for the quarter was 21%. We generated $225 million of cash from operations during the quarter. As anticipated, working capital was seasonally a use of cash, but significantly lower than the draw we experienced in the first quarter of 2019.
+
+As activity declines globally, working capital has historically been a strong source of cash and I expect a similar pattern this year. We have a heightened focus on improving working capital metrics and are working hard to prudently manage customer credit risk in light of the current market conditions.
+
+Capital expenditures during the quarter were $213 million. As Jeff mentioned, we have reduced our full year capex budget to approximately $800 million. These cuts are geared toward both our North America business and uncommitted projects internationally. We believe our capital allocation decisions are consistent with our focus on generating cash flow regardless of the market environment.
+
+Our free cash flow generation for the quarter was $12 million, a significant improvement compared to the first quarter of 2019. During the quarter, we took actions to manage our debt and maturity profile. We executed two transactions, a debt issuance and a subsequent tender, which lowered our total debt by $500 million. But more importantly, it also reduced our 2023 and 2025 maturities by $1.5 billion. As a result of these transactions, we incurred a net cost of $168 million related to early debt extinguishment. Our total outstanding debt was $9.8 billion as of March 31. We have no current borrowings under our revolver and no financial covenants in our borrowing facilities for our debt agreements.
+
+Now, looking forward, our second quarter results will be impacted by the severity of the continuing activity declines in North America, customer project suspensions and delays internationally, and the uncertain duration of the pandemic-related disruptions, as well as actions related to the OPEC+ production cuts. These uncertainties and the exact timing of our cost reductions impacting our division results, preclude us from providing specific guidance for the second quarter.
+
+We will continue to execute the measures that Jeff outlined. In addition to the activity-related variable cost adjustments, we plan to reduce annualized overhead and other costs by about $1 billion. To achieve that, we will have an associated cash costs of approximately $200 million. These reductions will target all of our business lines and support functions globally, and we expect to complete most of these actions within the next few quarters.
+
+I will now turn the call back over to Jeff for closing comments. Jeff?
+
+Jeff Miller -- Chairman, President and Chief Executive Officer
+
+Thanks, Lance. Before we close, there are two important themes that I see accelerating in the depths of this downturn. Both will be helpful today, but more importantly, they will create strong competitive advantages for us in the future. First, we are fast-tracking the implementation of our service delivery improvement strategy in North America, as we restructure our overall North America business. We launched the strategy, to lower the cost to the overall cost of service delivery in the U.S., last year, and we will accelerate these efforts in the current market.
+
+Next, this downturn accelerates the adoption of digital technologies by our customers and by Halliburton, internally. We are far along the road to delivering the next frontier of digital solutions that will help drive efficiencies in our workforce and reduce capital investments through automation and self-learning processes. In this environment, digitalization will unlock the potential to structurally lower costs and enhance performance across the entire value chain. I have never been more convinced that digital is the future and Halliburton is leading the way.
+
+With that, let me summarize our discussion today. To the Halliburton team, the path ahead will be challenging, but I have the utmost confidence in our ability to maintain focus and execute on our value proposition in this extremely difficult environment. Our balance sheet and liquidity positions are solid, and we plan to continue taking actions to strengthen them. We know what buttons to push and what levers to pull, and we will do so quickly around cost, capex and working capital, and we will continue to proactively adjust our business to current market conditions.
+
+We know that the industry will recover. It may look different when it does, but we believe the actions we are taking will ensure that we are in a strong position, financially and structurally, to take advantage of the market's eventual recovery.
+
+And now, let's open it up for questions.
+

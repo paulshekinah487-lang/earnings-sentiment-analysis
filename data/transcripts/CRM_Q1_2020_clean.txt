@@ -1,0 +1,132 @@
+Operator
+
+Good day, ladies and gentlemen, and thank you for standing by. Welcome to the Salesforce Q1 Fiscal Year Earnings Conference Call. At this time, all participants are in a listen-only mode. Following management's prepared remarks, we will host a question/answer session, and our instructions will be given at that time. (Operator Instructions) As a reminder, this conference call is being recorded for replay purposes.
+
+It is now my pleasure to hand the conference over to Mr. John Cummings, Senior Vice President, Investor Relations. Sir, you may begin.
+
+John Cummings -- Senior Vice President, Investor Relations
+
+Thanks so much, Brian. Good afternoon, everyone, and thank you for joining us for our fiscal first quarter 2020 results conference call. Our results, press release, SEC filings and a replay of today's call can be found on our IR website at www.salesforce.com/investor.
+
+With me on the call today are Marc Benioff, Chairman and Co-CEO; Keith Block, Co-CEO; Mark Hawkins, President and CFO; and Bret Taylor, President and Chief Product Officer.
+
+As a reminder, our commentary today will primarily be in non-GAAP terms. Reconciliations between our GAAP and non-GAAP results contained in the earnings press release.
+
+Some of our comments today may contain forward-looking statements, which are subject to risks, uncertainties and assumptions. Should any of these materialize or should our assumptions prove to be incorrect, actual company results could differ materially from these forward-looking statements. A description of these risks, uncertainties and assumptions and other factors that could affect our financial results are included in our SEC filings, including our most recent report on Form 10-Q.
+
+With that, let me hand it over to you, Marc.
+
+Marc Benioff -- Chairman and Co-Chief Executive Officer
+
+Okay. Hey. Thanks so much, John, and thank you everyone for being on the call today. I am sorry, I am a little bit late here. I was working on Kramer and that will be on in 45 minutes. So let me just say, first of all, we are just happy to share that revenue in the quarter rose to more than $3.7 billion, up 24% in dollars and 26% in constant currency. And, in Q1, we delivered nearly $2 billion in operating cash flow, up 34% year-over-year. I just want to congratulate our entire team for these cash flow numbers, because they are just phenomenal.
+
+For fiscal year 2020, we're guiding to $16.25 billion at the high-end of the range, representing 22% projected growth year-over-year and that's up $200 million from 90 days ago, when we had our Q4 earnings call. No other enterprise software company of our size and scale is growing at this rate.
+
+Just last month, IDC worldwide software tracker ranked Salesforce the number one CRM for the sixth year in a row and I'll tell you that is more important than ever, especially so many of our customers are going through these tremendous digital transformations and we all know every digital transformation begins and ends with the customer.
+
+And when I'm looking at CEOs all over the world, this is really front and center in their mind, it's probably is exciting to them and is important to them as it was to CIOs who are buying for Y2K, which is almost 20 years ago, I think the digital transformation remains just a huge growth opportunity for our entire industry.
+
+And it's not only that, in 2018, Salesforce gain more CRM market share than the other top, top vendors combined, 15 top vendors combined. That's amazing. We're number one in sales, we're number one in service, and we're leading so many other areas, we're number one in model-driven application platforms driven by our amazing community of 6 million developers, also a leader in marketing and commerce and continue to gain share and with MuleSoft, we also have this number one integration platform. It's incredible.
+
+We have amazing opportunity ahead of us and we're taking advantage of that and focus on innovation, which is why Forbes has ranked Salesforce as one of the most innovative companies for eight years in a row. With a powerful vision for the future, with intelligent Customer 360, giving our B2B and our B2C customers a unified 360 degree view of their customers across every touch point, sales, service, marketing, commerce, communities and more, I'll tell you this vision that has been so well articulated now by our product organization, that we call Customer 360, this is really driving tremendous opportunity at the highest level, highest levels in these customers and we'll talk about that. But every company needs to have this Customer 360 capability, it doesn't really matter what industry you're, even the federal government, it's just a tremendous driving force.
+
+And Customer 360 will continue to be a major growth engine for Salesforce going forward. At its core, it's our core Salesforce platform, which is the most powerful and easy way for companies to build modern intelligent applications.
+
+In Q1, we announced our new Einstein platform services that enable everybody regardless of their technical skill to build custom AI powered apps with just a few clicks and that has been so important for our customers, because just as we've been used in the Einstein AI capabilities across our entire product line and made Einstein Voice and also Einstein Vision capabilities available to every Salesforce app. We're now doing this exact same thing with another critical technology for our customers, which is watching.
+
+So when you look at our platform, you see this incredible capability of not just AI, not just blocking, not just mobile. I mean there's so many things that are in the platform and the ability for our customers to easily build these state-of-the-art applications, it's pretty awesome, or just simply extend our CRM apps.
+
+Last week, TRAILHEADX sold out developer conference in San Francisco. We interviewed Salesforce Blockchain. It is a breakthrough. Every customer app can have blockchain capabilities, it's the world's first declared blockchain service solution. And it's built in deeply now into all of our apps, it's built in deeply into our platform, it's built natively on our platform enabling customers to easily create blockchain applications with simple drag and drop, as they can with every other Salesforce app and I'll say I was in Minneapolis on Friday demonstrating them to one of our very large customers and showing how they can use it for their supply chain and it's just incredible what it's going to do for so many of our customers in every industry.
+
+Also, our ecosystem is developing a huge economy around Salesforce, one that is going to create more than 3 million jobs and more than $850 billion in GDP by 2022. And that is why we're so excited about Trailhead, which is our online learning platform and our online reskilling platform that empowers everyone. Now we have more than 1.4 million learners changing their careers and their lives on Trailhead. And I'm sure so many of you have met these inspiring people and their incredible stories of how they transformed themselves using Trailhead.
+
+And in the quarter, our new mind Trailhead product became generally available and now any of our customers can actually create their own branded service just like what we have done and reskill all their employees, customers and partners too. So it'll be a huge driver of workforce development, which is why we are so excited that two weeks ago, we were Ivanka Trump, and our first ever Trailblazer Day in Indianapolis, in our headquarters in Indiana where where we signed the White House pledge for America's workers. And we plan to get more than a million Americans the skills they need and earn these Salesforce credentials and badges and do everything necessary to make them successful and to get top jobs in our ecosystem over the next five years.
+
+Finally, at Salesforce, our vision has always been to change the way the world does business and at the same time improve the state of the world. And that's why I'm extremely excited that Salesforce.org is reunified officially as part of Salesforce providing an even better experience for all of our nonprofit, education, philanthropy customers, empowering them to fulfil their missions and tightly unifying our .org employees with our company. They already sit in our buildings and already here with us, but now they're fully part of our structure as well and it's a tremendous opportunity to accelerate our work in this incredible non-profit world. And now as you're going to hear from Keith, we're well positioned to continue on our path to organically double our revenue again in the next four years achieving a revenue target of $26 billion to $28 billion for fiscal year 2023, and now over to you.
+
+Keith Block -- Co-Chief Executive Officer
+
+Okay. Thanks, Marc. Thanks everybody for joining us on the call today. As Marc said, we have never been positioned for the future better than we are right now. We delivered strong revenue growth in the quarter and we're seeing a great momentum across all of our prongs and all of our industries. In fact for the first time, Service Cloud exceeded $1 billion in revenue for the quarter, becoming our second cloud.
+
+Marc Benioff -- Chairman and Co-Chief Executive Officer
+
+That is pretty awesome right. That is, I mean, $1 billion quarter for service cloud. You know a lot of these other cloud companies that we read about all the time, they're not even doing $1 billion quarters and here, bam, Service Cloud, congratulations.
+
+Keith Block -- Co-Chief Executive Officer
+
+No, it's pretty amazing. So it is becoming our second cloud, as Marc said, to surpass an annual revenue run rate of $4 billion, which is pretty incredible.
+
+Marc Benioff -- Chairman and Co-Chief Executive Officer
+
+It is pretty awesome.
+
+Keith Block -- Co-Chief Executive Officer
+
+And MuleSoft, by the way, also had an outstanding Q1 capping off a record first year and celebrating its anniversary here as part of Salesforce. Now, we are well prepared, as Marc said, to deliver on our FY20 goal and also our goal of $26 billion to $28 billion in revenue for fiscal year 2020. So we're all excited about. Quarter-after-quarter, we continue to take share and outpace the competition. I think that's pretty clear and the market alluded to -- we have been meeting with CEOs around the world and the common theme that we're here with the importance of transforming their customer experience and the value of providing a 360 degree view of customer and that's something that Salesforce does better than anybody.
+
+And that's why we continue to see massive demand for our solutions from both new customers, existing customers, across the world, every industry, every market segment. And as you can see this, it's in our results 25% year-over-year revenue growth in the Americas, 27% in APAC, and 32% in EMEA in constant currency, very, very proud of those results.
+
+A great example of a customer who understands the importance of transformation in the customer is Dell. It's really done a fantastic job in their transformation around customer experience. Dell was a longtime customer and they are a strategic partner and in the quarter they expanded with us to deliver more automated and intelligent customer service experiences with Einstein Voice, predictions and next best action, very, very important.
+
+In Q1, we also know the strengthen relationships with some of the leading companies around the world, including Tokio Marine Holdings, one of the Japan's largest insurance providers. They're standardizing field of service and marketing on Salesforce, which is very, very cool. And they also were deploying financial services cloud to a million agents in over 50,000 agencies.
+
+We also expanded with Heroku, an Italian utility company. I just came back from Italy, last week. This is the company that is serving over 4.4 million citizens and we also formed a new relationship with People's Choice Credit Union with the largest credit unions in Australia. You can see this is an ongoing phenomenon globally. Again, very, very excited about what's happening. We continue to deepen our relationship with the US federal government, the Department of Education recently selected Salesforce as its platform to modernize and streamline the experience for millions of citizens with federal state.
+
+Marc Benioff -- Chairman and Co-Chief Executive Officer
+
+Are you OK?
+
+Keith Block -- Co-Chief Executive Officer
+
+I'm good. All right, all right. Southwest Airlines, which has one --
+
+Marc Benioff -- Chairman and Co-Chief Executive Officer
+
+What are you drinking.
+
+Keith Block -- Co-Chief Executive Officer
+
+I'm drinking coffee. (multiple speakers) Anyhow, Southwest Airlines market, which which has won awards for their world class customer service is creating an entirely new employee experience with a centralized knowledge center built on Salesforce using service dial-in communities, Southwest is transforming the delivery of their HR services with MuleSoft service chat and more capabilities from more than 16,000 employees. It's also about our (technical difficulty) importance of our partners and they continue to play a critical role in our customer's transformation and not only were partners involved in 63% of our new business in Q1, but they were some of our leading adopters as well. Accenture selected myTrailhead, this is very important skill, their culture of continuous learning and providing top talent for their clients, this is their business and leveraging custom content and reskilling their employees on topics like artificial intelligence, networking and leadership development. Again, think about the business that Accenture and these other providers are in, it's all about talent and bringing value to the table.
+
+We're also seeing strong momentum beyond the United States, Australia's Telstra was another great myTrailhead win from the quarter. I was speaking with their CEO and Board discussing the strategic importance of reskilling the workforce is the common theme and is top of mind is market unity for every CEO in the world. It comes up in every single conversation.
+
+Our vertical solutions continue to drive success and value for our customers and (inaudible) like Einstein Analytics for financial services is the first complete intelligence platform for wealth in banking in the quarter. We had incredible financial services spot wins with Zions, CIBC. We also released new health capabilities to provide a complete view of factors that contribute to a patient's health, again very, very important, enabling providers to deliver better care and improve outcomes.
+
+In Q1, Cerner, a leading provider of healthcare information and EHR technologies chose to replace their current CRM with Salesforce to continue transforming how they engage with their consumers and their providers.
+
+Finally, as I mentioned, it's been a year since we acquired MuleSoft and we are absolutely thrilled with the combined success. In April, MuleSoft was the leader in the Gartner Magic Quadrant for enterprise integration platform as a service and that makes us the only company, the only company to be recognized as a leader in both this environment and most recent Magic Quadrant for full life cycle API management.
+
+So, to close, I want to thank our customers, our partners, our employees, our strong results this quarter and with that I'll turn the call all over to Mark Hawkins.
+
+Mark Hawkins -- President and Chief Financial Officer
+
+Well, thanks, Keith. And as you've heard from Marc and Keith, we're pleased with our first quarter results, delivering strong revenue growth across each of our cloud and geographies, year-over-year operating margin improvement and a record quarter of operating cash flow.
+
+Let me take you through some of the details for Q1. First quarter revenue grew 24% in dollars and 26% in constant currency. As you can see, we experienced FX headwinds in Q1, which on a dollar basis represented $61 million or two full points of growth year-over-year. Our industry-leading product portfolio continues to deliver strong subscription and support revenue growth in US dollars year-over-year.
+
+Sales Cloud grew 11% in the US dollars, Service Cloud grew 20%, and this quarter, as noted, eclipsed the $4 billion annual run rate. Marketing and commerce group grew 33%; platform and other 46%, including approximately $140 million in subscription and support revenue from MuleSoft, of which 55% is treated as term license. Keep in mind, the FX headwind for a total revenue affected each of the clouds on a similar proportional basis.
+
+Diving into MuleSoft a bit more. We continue to execute well with MuleSoft contributing a $170 million to total revenue in the first quarter. While this is our final quarter of discrete revenue reporting for MuleSoft, we intend to provide additional color on MuleSoft going forward as appropriate.
+
+Our renewal rate remain healthy in Q1 and dollar attrition continues to remain below 10%. In fact, our attrition rate continued to improve modestly in the first quarter year-over-year, similar to the year-over-year improvement in attrition that we saw last quarter in Q4 '19.
+
+Q1 GAAP EPS was $0.49 and non-GAAP was $0.93. Required mark-to-market adjustments of our strategic investments benefited both GAAP and non-GAAP in the first quarter by approximately $0.27.
+
+Turning to cash flow. I was very pleased with our strong cash collections in the first quarter, which drove the operating cash flow of $1.97 billion, up 34% year-over-year. In fact, in Q1 we generated more operating cash flow than we did in our entire fiscal year 2016. CapEx for the quarter was $159 million, leading to free cash flow as defined as operating cash flow less CapEx of $1.81 billion, up 34% over Q1 of last year. Our remaining performance obligation representing all future revenues under contract entered the first quarter at approximately $24.9 billion, up 22% over the last year.
+
+Current RPO balance, or CRPO, which is business that is both build and unveiled and is expected to be recognized as revenue in the next 12 months was approximately $11.8 billion, up 23% year-over-year. On a constant currency basis, CRPO was up 24% year-over-year after considering an FX headwind of more than $100 million. While we make changes to our sales organization as we deleverage Q1, we did not see a material impact for CRPO as you can see in these results.
+
+Before I turn to guidance, let me turn -- touch on the FX environment and the combination of Salesforce.org and the related impact of Q2 and FY20 guidance. First, regarding FX. As is evident in our results, we are seeing a substantial decline in our FX rates as such our Q4 column. The Great British pound, for example, decreased approximately 5% since our fiscal fourth quarter 2019 earnings call and our euro declined by approximately 2% over the same period.
+
+Second regarding Salesforce.org, with the recently announced closing, we continue to expect Salesforce.org to contribute approximately $150 million to $200 million in revenue in FY '20 with approximately $40 million to $50 million of this revenue recognized in Q2. And as previously discussed, we will incur a one-time non-cash accounting charge of approximately $200 million in the second quarter related to our settlement of the reseller agreement with Salesforce.org, which impacts our Q2 GAAP/Non-GAAP EPS guide by approximately $0.20. We expect the combination of Salesforce.org to be additive to our long-term revenue targets and will provide more detail during our Annual Analyst Day in the fall.
+
+Now, turning to Q2 and FY20 guidance. We are now expecting north of $200 million in FX headwinds to the year and given this context we are pleased to be able to absorb each headwinds and still furnish FY20 revenue guidance of $16.1 billion to $16.25 billion or 21% to 22% growth year-over-year and with the dollar strengthening relative to the GBP and the euro, we're not only experiencing headwind to revenue but also having increasing pressure on operating margins as well in that context along with the integration and transaction expenses associated with the combination of Salesforce.org. We are also pleased to be able to maintain our plan of delivering flat to 25 basis points of non-GAAP operating margin improving year-over-year.
+
+As a result we are raising our FY20 GAAP diluted EPS to $0.78 to $0.80 and our non-GAAP diluted EPS to $2.88 to $2.90. And, as a reminder, our EPS guidance assumes no future contribution for mark-to-market accounting as reported by ASC 2016-01.
+
+For operating cash flow, we maintain our FY20 operating cash flow guidance of 20% to 21%. For Q2, we expect revenues in the range of $3.94 billion to $3.95 billion. GAAP diluted loss per share of $0.08 to $0.07 and non-GAAP diluted earnings per share of $0.40 to $0.47. We also expect CRPO growth of approximately 20% to 21% year-over-year in the second quarter.
+
+In close, we had another quarter of strong results and we maintain to be on track for FY20 revenue and profitability goals and achieve our long-term organic target of $26 billion to $28 billion in FY23.
+
+I'd like to thank our employees, customers, partners and shareholders for their continued support. With that, I'd like to open up the call for questions.
+

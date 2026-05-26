@@ -1,0 +1,270 @@
+Operator
+
+Good morning. My name is Amy, and I will be your conference facilitator today. At this time, I would like to welcome everyone to the BlackRock, Incorporated First Quarter 2020 Earnings Teleconference.Participants in today's call will include, Chairman and Chief Executive Officer, Laurence D. Fink; President, Robert S. Kapito; Chief Financial Officer, Gary S. Shedlin; Chief Operating Officer and Head of BlackRock Solutions, Robert L. Goldstein; Global Head of iShares and Index Investments, Salim Ramji, and General Counsel, Christopher J. Meade.
+
+[Operator Instructions]. After the speakers' remarks, there will be a question-and-answer period. [Operator Instructions]. Thank you, Mr. Meade, you may begin your conference.
+
+Christopher Meade -- Chief Legal Officer
+
+Thank you. Good morning, everyone. I'm Chris Meade, the General Counsel of BlackRock. Before we begin, I'd like to remind you that during the course of this call, we may make a number of forward-looking statements. We call your attention to the fact that BlackRock's actual results may of course differ from these statements.
+
+As you know, BlackRock has filed reports with the SEC which lists some of the factors that may cause the results of BlackRock to differ materially from what we see today. BlackRock assumes no duty and does not undertake to update any forward-looking statements.
+
+So with that, I'll turn it over to Larry.
+
+Larry Fink -- Chairman and Chief Executive Officer
+
+Thank you, Chris. Good morning, everyone. And thank you for joining the call. I know this is a difficult time for many people. So, first and foremost, I hope you, your families, your friends, your neighbors are all staying healthy and safe.
+
+And before I begin, I want to take a moment to express the gratitude of everyone at BlackRock. For the men and women -- women on the front line of this crisis, for the doctors and nurses, and everyone working so hard today, putting their own health at risk to support the safety and health of our communities and to our country's. And to all of you, thank you.
+
+As I wrote in my Chairman's letter to shareholders, we're living and working in an unprecedented environment. In just a few short months, the COVID-19 outbreak has transformed the world, for all of us, as individuals, as businesses, small and large, for entire industries, for every government around the world, it has presented tremendous medical, economic and human challenges that will be long-lasting and will reverberate for years to come.
+
+Our global markets were impacted by extreme volatility, liquidity receded and then oil price were exasperated stress. Swift actions by policy-makers and several central banks represented the type of decisive responses that are needed to overcome this extreme market adversity. There has been tremendous monetary policy to stabilize financial markets and we're beginning to see the type of fiscal policy that could stabilize our economies.
+
+No one knows precisely how long these conditions will persist. However, I expect the continued actions taken by governments, taken by central banks with careful design and coordination will help the economy recover. And I believe that coming out of the crisis, we have an opportunity to accelerate toward a more sustainable world. Through these challenging times, the strength and resilience of BlackRock's business model has become even more apparent than ever before.
+
+The investments that we've spoken to in many, many quarterly updates over the long-term to diversify our investment capabilities and to operate on an unifying technology platform, Aladdin, are differentiating us in this moment for clients, for our shareholders and for our employees. We did that designer operating model with this pandemic or any or -- or almost any virtual work environment in mind. But because of BlackRock's strong culture and our long history of connecting a global organization on one technology platform has enabled more than 95% of our 16,000 employees to work remotely from home, while continuously delivering seamlessly for our clients.
+
+The areas in which we strategically invested over the last few years, iShare ETFs, illiquid alternatives, sustainable investment strategies and Aladdin, are all helping solve clients' unique needs in this environment and continuing to deliver strong performance and growth for BlackRock.
+
+Momentum in 2019 continued into the first quarter and we saw $75 billion of net inflows in the first seven weeks of the year. Despite market-related outflows including over $40 billion of de-risking by institutional clients and index strategies in the last five weeks of the quarter, we ended the quarter with $35 billion of net inflows driven by cash and liquid alternatives, iShares sustainable and factor ETFs and our active equity platform.
+
+Over the last month, BlackRock's biggest priority has been focusing on the health and safety of our employees and all their families. By focusing first on our employees ensuring their well-being and positioning them with our technology, our tools and the support they need, BlackRock has been able to accomplish a tremendous amount. In these times, having a unified technology platform that connects us all digitally is more important than ever.
+
+Our performance during the quarter would not have been possible without a unifying technology, without a unifying risk management system and careful business continuity planning. I'm incredibly proud on how Aladdin has enabled us to rebuild BlackRock beyond its walls to deliver the operational resilience, advice and solutions our clients need at this time.
+
+Aladdin processed record trade volume in recent weeks, even with a remote global workforce and has provided a transparent view into the risk and scenario analysis for the benefit of our asset management clients. But not only has Aladdin proven to be a significant differentiator for BlackRock itself, but it has enabled nearly 250 third-party Aladdin clients, other asset managers, asset owners, banks and insurance clients to also operate seamlessly during this time.
+
+We've been hearing incredible positive feedback from the Aladdin community about its resilience, its benefits. And so our clients were able to proceed just as strongly as BlackRock. Rob Goldstein, BlackRock's Chief Operating Officer and Head of BlackRock Solutions will join us today and will discuss in a few moments BlackRock's organizational and technology strength during this time, and also how Aladdin is delivering for third-party clients.
+
+In addition to our technology, certain products, especially iShares have once again proven to be a critically important tools for providing liquidity and transparency to investors and markets. As we have seen repeatedly in periods of market volatility, investors including many first-time asset managers and institutional users turn to iShares for incremental liquidity, market access, as well as long-term investments. iShares generated $14 billion of net inflows in the most volatile quarter we've experienced in recent history, benefiting from a $44 billion of inflows in the first seven weeks of the year.
+
+Our diverse product line up across sustainable investments, factor strategies and core equity continue to drive growth. The sustainable ETFs bringing in $10 [Phonetic] billion of net inflows alone. The best quarter in its history. Despite outflows from market-driven fixed income and precision segment, these ETFs performed exactly as expected as clients use them to actively reposition portfolios, reduce risk during market stress. As we invested in the growth of fixed income ETFs, many speculated on how these products would behave during market shock and whether or not they could withstand ways of selling.
+
+Having now been through a once-in-a-generation market shock, and market participants had noted that fixed income ETFs were tested beyond a doubt and worked incredibly well, we believe this will serve as a further accelerant for fixed income ETFs growth going forward.
+
+Salim Ramji, Global Head of ETFs and Index Investments is with us today and will speak about how iShares experienced increased investor adoption, delivered tighter bid-ask spreads than any other ETFs and underlying securities, provided incremental liquidity and price transparency, especially in fixed income for all markets and for all the investors.
+
+As interest rates globally back to historic lows, the investments that BlackRock continues to make to build a diversified illiquid investment strategy and differentiated global sourcing capability across our alternative platform are benefiting our clients as they took to meet their long duration liabilities.
+
+BlackRock raised a total of $7 billion of net inflows and commitments in illiquid alternatives this quarter, our third best quarter in history. We also deployed $2 billion on behalf of our clients, and closed several large client commitments in the midst of market volatility, including our third vintage, Global Energy and Power Fund. It's our third fund, which raised a total of $5 billion, surpassing the total assets in the first two capital raises.
+
+The investments we made in our active equity platform are also showing results. We generated a fourth consecutive quarter of active equity inflows with $4 billion, even as the broad active equity mutual fund industry saw more than a $100 billion of outflows during the first quarter.
+
+We have invested for years in our active equity platform and in better data analytics and technology in more important risk taking culture and having global and -- global scale and reach. We are seeing strong performance today with 76% of our fundamental active equity assets above benchmark or peer median for one year, and I'm confident the business is well-positioned to capture more client demand as clients reposition their portfolios in the coming months.
+
+Throughout the recent market volatility, one enduring trend has been the move to sustainable investing. In addition to the $10 billion of sustainable ETF inflows I've already mentioned, we continue to see broad and strong interest in active sustainable strategies even as equities sold off more broadly.
+
+In January, BlackRock committed to be placing sustainability at the core of our approach as an investment manager in how we manage risk, how we construct portfolios, design products and engage with companies and to be making sustainable investing accessible to more people.
+
+These commitments remain a priority and we continue to make progress in executing on them. The pandemic we're experiencing now is further highlighting the value of sustainable portfolios. We've seen sustainable portfolios deliver stronger performance than traditional portfolios during this period. And we expect clients rebalancing in the current environment will include a substitution of some traditional assets, the sustainable ones as they see the potential for the long-term benefits.
+
+BlackRock's goal to be -- is to be a leader in -- global leader in sustainable investing. And we believe the assets we manage for clients in this category will reach over $1 trillion by the end of the decade. We also saw it's [Phonetic] strong quarter for our multi-asset platform, which also generated $4 billion of net inflows. Our global allocation franchise, a long-term flagship product, now under Rick Rieder's leadership significantly outperformed peers and stayed true to its three decade promise of providing upside return with limited downside capture.
+
+Global allocation is now positioned in the top quintile of its peer group for the one, three and five-year period respectively. BlackRock's cash management platform generated a record $52 billion of net inflows in the first quarter, benefiting from a surge in industry flows into US government funds over the past three weeks. Our commitment to build scale in our cash management business and extend a rigorous risk management platform to every part of BlackRock is providing a key differentiator for our clients.
+
+The strength of our results in the first quarter are directly linked to our efforts to stay connected with clients throughout the crisis. Investors globally are looking to BlackRock for even more insights, more thought leadership on the economy, on markets, on geopolitics, on asset allocation. Our goal is to help clients navigate market volatility, while also staying focused on the long-term goals.
+
+Through virtual connectivity, we're having a richer conversation with clients than ever before about their whole portfolio and in many cases deepening our partnership with them. Over the last three weeks, BlackRock has connected with nearly 50,000 clients, significantly ellipsing all historical records for client contacts. BII has hosted dozens of calls reaching thousands of institutional investors and financial advisors and providing daily update emails to thousand more who have subscribed.
+
+In the last week of March alone, BlackRock's senior business leaders met virtually with approximately a 100 CEOs, CIOs, executives, public officials, further amplifying hundreds of outreach calls from our client-facing team. This connectivity enables us to better understand the challenges that [Phonetic] our clients are facing and a comprehensive platform of solutions have enabled us to help clients reallocate risk, to help clients rebalance, helping clients provide more liquidity and capturing opportunities in response to market moves.
+
+BlackRock Investment Institute, BII, our financial markets advisory groups FMA team, and our global public policy group has closely engaged with regulators, central bankers and other public officials to provide guidance on practical, targeted monetary and fiscal solutions in support of the global economy during this time.
+
+BlackRock's FMA group, which advises financial and official institutions, as well as other public and private capital market participants has been awarded mandates to advise both the New York Federal Reserve Bank and the Bank of Canada on programs designed to facilitate access to capital for businesses to support the economy. We are honored to have been awarded these mandates and approach these assignments with great sense of responsibility.
+
+Advisory work has built into the fabric of BlackRock. Beginning as early as 1994, when we worked with General Electric to unwind Kidder Peabody's mortgage assets, our FMA practices adopted and evolved over time, working across an array of mandates from crisis-oriented assignments to regulatory and sustainability frameworks.
+
+Given the sensitive nature of these assignments, FMA is a segregated, walled off business within BlackRock and operates behind a stringent information barrier, while still providing the benefits of Aladdin, BII and BlackRock's global scale and reach to our clients of FMA. Our most recent partnerships are a testament to the trust we have earned over time and we will continue to work with others around the world to navigate during this difficult period.
+
+Through these extraordinary times, BlackRock remains focused on continuing to drive forward on our commitments to our clients, shareholders and employees. This has required greater and more frequent connectivity than ever before with our Board of Directors, our global executive committee and our broader employee base.
+
+Since the start of the crisis, I'm sending weekly strategic, financial and operational updates to our Board. Our global leadership team is meeting every single day rather weekly as we do during normal times and we're hosting global, firmwide townhalls each week to ensure our people, our partners are feeling updated and feeling connected.
+
+Just as we are focused on strong corporate governance and communication across BlackRock, our investment stewardship team continues to engage and communicate with companies through this time on behalf of our clients. In addition to proxy season fast approaching, the team is actively engaging with companies on topics like operational resiliency and how companies are taking the care of their employees, contributing to their community and living their purpose. These issues are more important than ever before.
+
+BlackRock is helping our communities during this time of great need. Early in the first quarter, before the full impact of the pandemic appending global markets, we contributed our remaining 20% stake in PennyMac to our existing [Indecipherable] advisory funds and we created a newly established BlackRock Foundation with the goal of supporting a more inclusive and sustainable economy.
+
+Since then, through these charitable funds, we committed $50 million to immediate COVID-19 relief efforts. Our focus has been two-folds. Supporting front-line medical workers, who are the true heroes in the crisis, and supporting food banks, which are on the front line at helping address the financial hardship and social disallocation that the pandemic is pouring into so many.
+
+Challenging environments have always been -- have always offered BlackRock an opportunity to further differentiate ourselves with all our stakeholders and in the industry itself, and I'm proud to say that it's happening once again and I believe BlackRock's position has never been stronger.
+
+We remain committed in growing and investing at BlackRock. Our performance today reflects the investments we made in the resilience of our platform, by supporting our people, by building our culture and forging deep partnerships with our clients. We have consistently and strategically invested for the long-term to create the most diverse global asset management and technology service firm in the world.
+
+And we believe we are better positioned than any firm to weather shocks like these and help our clients do the same. Throughout the firm, there have been countless examples of everyone living our purpose to help more people achieve financial well-being, and I could not be prouder or more grateful to the commitment of BlackRock to people.
+
+The world is facing a challenge that is truly unprecedented in our lifetimes. BlackRock will continue to do everything we can to support our clients, the societies where we operate more broadly as we seek to overcome this. To everyone on the call, to all our shareholders, to BlackRock's employees and our colleagues around the world, please stay safe and healthy.
+
+With that, I'd like to turn it over to Gary to talk about our financial results.
+
+Gary Shedlin -- Chief Financial Officer
+
+Thanks Larry, and good morning, everyone. Thank you for joining our earnings call and I hope everyone and their families are remaining safe and healthy. Before I turn it over to Rob and Salim, I'll briefly review our financial performance and business results for the first quarter of 2020. While our earnings results discloses both GAAP and as adjusted financial results, I'll be focusing primarily on our as adjusted results, which exclude the financial impact of our previously announced charitable contribution.
+
+The investments we have continuously made over the years, to build a scaled business model with diverse global investment capabilities, best-in-class technology and rigorous risk management have enabled us to differentiate ourselves and serve clients in a variety of market environments. Our ability to deliver for clients, employees and shareholders during this global crisis was absolutely sustained by that commitment.
+
+As Larry mentioned, BlackRock entered the year with incredibly strong momentum. During the first seven weeks of the year, total net inflows of approximately $75 billion, representing 7% organic asset and 9% organic base fee growth were paced by strength in iShares and Americas in EMEA retail.
+
+However, as the market reacted to the COVID-19 health crisis, and it's projected economic impact in late February, the BlackRock equity index declined approximately 25% by quarter end, and we saw institutional and retail clients derisk and seek liquidity.
+
+Consistent with broader industry trends, we experienced outflows for the balance of the quarter, primarily in institutional index, iShares and active fixed income partially offset by strong inflows into our cash management franchise. In the aggregate, BlackRock still generated approximately $35 billion of total net inflows during the quarter representing 2% annualized organic asset growth.
+
+However, annualized organic base fee decay of approximately 1% reflected outflows from higher fee iShares precision exposures, mix change favoring lower fee fixed income ETFs and broad-based redemptions in active fixed income strategies. As BlackRock has demonstrated, environments like this create unique opportunities for growth as long as we have the discipline to realize them.
+
+While we will not reduce our workforce this year as a result of COVID-19, we have determined to freeze hiring in the current environment. We remain committed to act decisively as one BlackRock to focus our existing resources where the impact will be greatest and to aggressively reallocate in challenging markets. We intend to continue playing offense, so we are able to deliver differentiated organic growth once we emerge from this crisis.
+
+First quarter revenue of $3.7 billion increased 11% year-over-year, while operating income of $1.3 billion was up 3% and reflected the impact of $84 million of costs associated with the successful closed-end fund launch this past January. Earnings per share of $6.60 were essentially flat compared to a year ago as higher operating income, a lower effective tax rate and a lower diluted share count in the current quarter were more than offset by lower non-operating income versus a year ago.
+
+Our as adjusted tax rate for the first quarter was approximately 18% and included $64 million of discrete tax benefits including benefits related to stock-based compensation awards that vest in the first quarter of each year. We continue to estimate that 23% is a reasonable projected tax run rate for the remainder of 2020, though the actual effective tax rate may differ as a consequence of non-recurring or discrete items and issuance of additional guidance on previously enacted tax legislation.
+
+Non-operating results for the quarter reflected $17 million of net investment income, as mark-to-market losses on unhedged seed capital investments and our minority stake in Envestnet were more than offset by $244 million unrealized gain related to our investment in iCapital, which completed a successful recapitalization during the first quarter.
+
+First quarter base fees of $3.1 billion were up 9% year-over-year primarily driven by organic growth of 4%, the net positive impact of market beta and foreign exchange on average AUM, effect of one more day in the quarter and higher securities lending revenue partially offset by strategic pricing changes in certain products.
+
+On an equivalent day count basis, base fees were flat sequentially and our effective fee rate increased 0.2 basis points from the fourth quarter reflecting strong fundraising activity in illiquid alternatives.
+
+However, as a result of significant global market declines including the impacts of divergent equity beta and FX related dollar appreciation, we enter the second quarter with an estimated base fee run rate of approximately 12% lower and our total base fees for the first quarter.
+
+Performance fees were $41 million for the quarter, up $15 million year-over-year reflecting higher fees from liquid alternative products. Recent market volatility has impacted the performance of certain long-only and liquid alternative products and could result in reduced ability to earn performance fees for the remainder of 2020. Quarterly technology services revenue increased 34% year-over-year reflecting the impact of the eFront acquisition and continued growth in Aladdin. Excluding the impact of eFront technology services, revenue grew 13% year-over-year.
+
+As Rob Goldstein will discuss in more detail, we continue to complete Aladdin implementations for new clients and overall demand remained strong for our full range of technology solution. While we continue to target low to mid teens technology services revenue growth over the long-term, near-term revenue growth may be impacted by extended sales cycles and longer implementation periods as clients work remotely.
+
+Advisory and other revenue of $64 million was up $15 million year-over-year primarily reflecting higher transition management assignments and increased equity method earnings related to our historical investment in PennyMac. Please note that as a result of the charitable contribution of our remaining 20% equity stake in PennyMac earlier this quarter, we will no longer recognize non-cash equity-method income related to this investment going forward.
+
+Total expense increased 15% year-over-year driven by higher G&A, compensation, and direct fund expense. G&A expense was up $165 million year-over-year reflecting $84 million of closed-end fund launch costs associated with the successful January close, the $2.3 billion of BlackRock Health Sciences Trust II.
+
+We exclude the impact of these product launch costs when reporting our as adjusted operating margin. The increase in year-over-year G&A expense also reflected higher technology expense, including certain one time costs related to facilitating remote operations, associated with COVID-19 and higher professional services expense partially offset by lower marketing and promotional expense.
+
+Quarterly G&A expense also included approximately $60 million in contingent consideration fair value adjustments, and costs related to certain legal matters, including Aviron Capital, LLC. Sequentially, G&A expense increased $38 million largely driven by the aforementioned fund launch and legal costs partially offset by seasonally lower marketing and promotional expense, lower contingent consideration fair value adjustments and lower FX remeasurement expense.
+
+Our first quarter results reflect the final fair value adjustment to our contingent payment related to the successful acquisition of First Reserve, and we would expect less variability in contingent consideration fair value adjustments going forward.
+
+Employee compensation and benefit expense was up 7% year-over-year, reflecting higher-based compensation, partially linked to higher headcount. Sequentially, comp and benefit expense was down 6%, primarily reflecting lower incentive compensation driven by lower operating income and performance fees, partially offset by higher seasonal payroll taxes and higher base compensation. Direct fund expense was up $35 million or 14% year-over-year, primarily reflecting higher average index AUM.
+
+Our first quarter as adjusted operating margin of 41.7% was down 20 basis points from a year ago, primarily reflecting higher levels of non-core G&A expense including legal costs, and contingent consideration fair value adjustments. As Larry stated earlier, our current priority is to ensure the health and safety of our employees and to maintain operational excellence to best serve clients in this environment.
+
+We're continually focusing on managing our entire discretionary expense base and we will be prudent in reevaluating our overall level of spend, once we are able to more confidently assess the longer-term revenue impact of this crisis over the coming months.
+
+As always, we remain margin aware, committed to optimizing organic growth in the most efficient way possible and laser focused on a long-term strategy centered around iShares, illiquid alternatives, technology, and creating whole portfolio solutions. We are well positioned for differentiated growth even during this crisis, much as we were when we began the year.
+
+Capital management strategy remains to first invest in our business, and then consistently return excess cash to shareholders through a combination of dividends and share repurchases. BlackRock's cash generation and liquidity position remains strong. Our debt-to-equity ratio is less than one times EBITDA with no debt maturities in the next 12 months, and we continue to use our cash flow to seed and co-invest in new products.
+
+As we've previously announced in late January, we increased our quarterly cash dividend by 10%, the [Phonetic] $3.63 per share and have no plans to reduce our dividend during the remainder of the year. We also repurchased $400 million worth of common shares in the first quarter. At present, based on our capital spending plans for the year and subject to market conditions, including the absolute and relative valuation of our stock price, we still anticipate repurchasing at least $300 billion of shares per quarter for the balance of the year, consistent with our previous guidance in January.
+
+Larry referenced that BlackRock has recently held thousands of conversations with clients, providing reassurance, guidance and strategic advice in the midst of this crisis. Our connectivity with clients and the commitment to a solutions based approach is resonating more than ever before. Total net inflows of $35 billion were led by cash management, alternatives, and iShares reflecting the positive impact of the investments we have consistently made to diversify and scale our globally integrated platform.
+
+Our cash management business generated a record $52 billion of net inflows, as clients sort the safety of our scaled platform during the market slide. And we saw $3 billion in illiquid alternative net inflows and raised an additional $4 billion in commitments across infrastructure private credit, and secondary private equity.
+
+As Salim will cover in more detail, iShares saw a record on exchange volume serving as a critical investor tool for liquidity and price discovery in volatile markets and generated $14 billion of net inflows, led by $11 billion of core equity and $10 billion of sustainable ETF flows. As expected, iShares' highly liquid trading oriented precision exposures saw outflows in this market, but performed as designed to help investors quickly and efficiently reallocate risk exposure in a volatile market.
+
+Finally, a number of our active strategies continue to generate strong performance and positive flows. Active equity in multi-asset strategies each generated $4 billion of net inflows respectively during the quarter. In summary, our first quarter results once again demonstrate the resilience of our platform. While we're not immune to market headwinds and the impact those headwinds can have on our near-term financial results, we remain confident that we will navigate this crisis as we have others, and emerge better positioned for relative growth.
+
+We intend to remain focused on investing in our highest growth priorities while exercising prudent expense discipline to ensure we meet the critical needs of our employees, clients and shareholders. The diversity of our platform and stability of our operating model, position us to outperform in a variety of market environments and will enable us to generate differentiated organic growth over the long term.
+
+With that, I'll turn it over to our Chief Operating Officer, Rob Goldstein, who led the efforts to rebuild BlackRock beyond its four walls and ensure our operational capabilities remained resilient and best-in-class.
+
+Rob L. Goldstein -- Chief Operating Officer and Global Head of BlackRock Solutions
+
+Thanks, Gary. And just echoing Larry and Gary, we are undoubtedly living through one of the most challenging and unusual times of modern history, and I hope that everyone is staying safe and healthy. So I wanted to spend the next ten minutes discussing how the collective we of BlackRock have been preparing for and adapting to this rapidly evolving and fluid situation, and how Aladdin has played a key role in the business continuity and crisis management of both BlackRock as well as our Aladdin clients.
+
+As many of you know, since its founding 32 years ago, BlackRock has been built on a foundation of technology, a thesis that asset management is an information processing business that requires a highly efficient, highly automated process to function. This mindset, which is really exemplified by Aladdin and coupled with our One BlackRock culture has allowed us to spend the past few weeks effectively transitioning BlackRock from a Company operating in 91 offices in 40 countries around the world to an almost entirely remote workforce, effectively operating in 16,000-plus home offices, all while continuing to deliver for our clients and importantly for each other, against the backdrop of incredible market volatility and obviously social stress.
+
+We have teams that have been planning for business interruption and disaster scenarios for years, but plans are just plans until a real world crisis comes along and a scenario of 95% of the Company working from home and equity trading volumes being 65% higher than we've ever experienced before, which was what we experienced the week of March 16 was by no means the scenario that we had expected.
+
+While there was certainly some potholes in the first few days, we're incredibly proud of the way in which our teams have implemented our plan to protect our employees, to deliver for our clients, and to ensure operational integrity. We effectively built BlackRock outside the walls of BlackRock, and we used Aladdin to provide the connective tissue.
+
+To us, business continuity is about ensuring that our employees have access to the resources they need to keep themselves and their loved ones safe in the crisis, that we have the means to continue serving our clients and to continue to act as a fiduciary to them, no matter where we, or they, are physically located. That our people have the tools to interact with each other, in an entirely virtual world, and importantly that Aladdin is equipped to operationally process record volumes and to provide transparency into portfolio risks in a rapidly changing highly volatile market for both BlackRock as well as our Aladdin clients, the Aladdin community.
+
+In summary, it's about staying connected, staying engaged with each other, staying engaged with our clients, and leveraging our platform and technology and supporting each other in this unprecedented time. So let's take a look at what BlackRock outside the walls of BlackRock actually looks like and talk a bit more about how we got here.
+
+As of March 31st, we had over 95% of our global workforce of more than 16,000 employees working from home. In order to support this predominantly remote workforce, we relied on both technology and our overarching culture as a firm, our One BlackRock culture.
+
+It doesn't change in this model, in fact, if anything, it needs to be reinforced and made even stronger. Unlike many financial institutions, BlackRock operates as a technology Company. Since inception. 32 years ago, we've lived by this mindset with Aladdin at our core. Even before the coronavirus, roughly 90% of our employees logged into our network remotely at some point over a typical 90-day period. And we offer a number of ways to securely connect to our network from either a personal device or a BlackRock laptop.
+
+This connectivity was optimized, this connectivity was enhanced, as part of our business continuity planning. We also worked to ensure that everyone across the firm had the appropriate technology to be able to do their job from home. From ordering thousands of laptops months ago, to building full workstations at home for groups of portfolio managers and traders, this effort enabled us to remain fully operational and effective throughout this whole period and has been steadily improving as we settle into this new normal.
+
+Interestingly, we have a culture that already leverages video calls, symphony chats really as the norm. In fact, for the past many years, at least five years, every employee in the firm has had a camera on their work zone enabling all internal calls to include video. This has allowed daily stand ups, hurdles, team meetings, town halls to all migrate seamlessly to this virtual setting that we're living in.
+
+With clients, we have focused on maintaining connectivity, no matter where they or we are located. Clients look to BlackRock even more in times of market volatility and uncertainty. So our ability to communicate with them, to serve them has remained at the forefront of every decision we have made.
+
+Thousands of our institutional retail public sector clients have attended virtual BlackRock events in the past few weeks. And as Larry mentioned, we've been talking to our clients more than ever before. We've also continued to prioritize providing physical and mental health resources to our now largely remote workforce, rolling out new or enhanced programs to our employees including telemedicine capabilities, access to clinicians, to answer urgent coronavirus questions, group counseling sessions, backup child care.
+
+In my 26 years at the firm, I don't believe there has ever been the time we've communicated more to our clients and to our employees. I also don't believe there's ever been a time where it's been more appreciated. Our focus on service, our focus on communication obviously extends to Aladdin as well. The Aladdin client community has expressed great appreciation for the responsiveness and the proactive nature of our service teams and has said that the stability and resiliency of our platform has been absolutely essential to their own business continuity planning.
+
+Without Aladdin's automation of processes, consistency of data, and technical resiliency, the transition to a work from home model would have been much more difficult. To quote the CEO of one of our clients in a recent article on their coronavirus response, quote, previously manual processes have been swept away by Aladdin. So this is always important, but obviously it becomes even more important in this environment.
+
+Personally, I can't imagine how challenging it must be to run a firm with a cobbled together infrastructure through this situation. Aladdin clients are also looking to us as a partner and a thought leader during these uncertain times. One example of this was using Aladdin to publish what we call a new market-driven scenario, a stress test, based on the coronavirus, to all of our Aladdin clients in early February.
+
+This provided clients with a framework for considering the market implications of a global pandemic. It allowed them to layer on their own views and ultimately stress test their portfolios on Aladdin. Our modeling and analytics teams are constantly working to understand and model the impact of new governmental policies and programs. For example, how forbearance programs may impact prepayment speed and the risk of mortgage-backed securities, and then sharing those findings with our clients.
+
+Capabilities and thought leadership like this, are our focus. Our building lasting partnerships with clients have led to incredibly strong relationships. These relationships, coupled with the power of Aladdin have led to very high contract renewal rates and continued interest in doing more together for the Aladdin community. I believe our client relationships will only get stronger as we navigate this new environment together.
+
+During this time, we even hit a new Aladdin community milestone, one I would have never anticipated. With our first Aladdin client go-live, while both organizations were in full business continuity mode while everyone was working from home. We've had seven total go-lives in the past four weeks including in countries like Italy and Spain, and we've also kicked off a number of new client implementations, fully remotely. It's been truly remarkable.
+
+Aladdin was built for these times, and we are both proud and also quite humbled by the feedback we've received from clients. Market shocks and market volatility just underscore the need for robust enterprise operating and risk management technology and Aladdin is uniquely positioned to provide both to our clients.
+
+Growth will be driven by the need for more efficient, streamlined operations, the rise of outcome portfolio construction and the ever growing need for whole portfolio technology solutions. Building BlackRock outside the walls of BlackRock and the resiliency of our platform and technology in response to the coronavirus has been one of the most remarkable projects and efforts I've ever witnessed. We have proven we can build BlackRock, one BlackRock outside our walls. This is a combined manifestation of our culture, our global platform, Aladdin, lots and lots of planning, lots and lots of hard work, really over many years.
+
+So I'll now pass it over to Salim to discuss how clients have been using ETFs and iShares to invest in this unprecedented market.
+
+Salim Ramji -- Global Head of iShares and Index Investments
+
+Thanks, Rob. I'd just echo the sentiments of others. I hope everyone is safe and healthy and stays that way. I'm going to spend the next ten minutes just talking about what we've seen this quarter through the lens of iShares and there are really three points that I wanted to make. First, I'll give you a little bit of context on the quarter. Second, I'll talk you through some of the most extreme tests to ETFs and indexation we've seen in our recent history, and I wanted to show you how iShares performance excelled during that period.
+
+And finally, I wanted to give you some insight into how this is unlocking new sources of client demand and accelerating major trends, which is why we remain optimistic about the medium-term growth prospects for iShares. So first, we've seen two very distinct environments over the course of this quarter in which iShares gathered $14 billion.
+
+Flows across our product segments reminded us that iShares isn't [Phonetic] a model but has multiple product segments across core, strategic and precision exposures. The first half of the quarter saw $44 billion inflows across nearly all product segments. As market turbulence hit toward the end of February, we saw $30 billion of net outflows throughout the quarter, concentrated mostly in our highly liquid flagship fixed income and a few precision market driven exposures, but throughout the quarter, our core and strategic product lines, which are each about a third of our iShares assets provided a solid $23 billion worth of flows and often very steady growth.
+
+Core equities delivered $11 billion with its growth largely coming from the growth of model portfolios and buy and hold segments globally. Our sustainable line raised $10 billion in the quarter, which puts us as the global market leader with 66% market share. Our factor ETFs raised nearly $2 billion, even as the industry saw outflows and factor strategies and our fixed income ETFs experienced high volatility during the -- high volatility of flows during the quarter ending roughly flat in a fixed income market across active and index, which saw record outflows of $178 billion in the US alone.
+
+From a client and competitor lens, the first half of the quarter was spread across our wealth and institutional clients. The outflows in the second part were largely led by institutions. The movement to commission free platforms, which we saw in the last quarter of last year across RIA and direct [Phonetic] the United States has continued to benefit ETFs and iShares, our monthly flows have increased especially from advisors with more investments that we're making to build our brand with individuals.
+
+And finally, the decline in our global market flow share in the quarter occurred largely in the last half and is attributed to three things. Outflows in our precision and market-driven and fixed income ETFs, a segment that we have and competitors don't, pull back in March among global institutional buyers across a range of at risk assets, again a segment that we are in, that most of our competitors aren't, and finally switching behavior among competitors from their index funds to ETFs. But the real story of this quarter is not inflows, but in resilience and performance. iShares, as well as indexation and ETFs as a category came under one of the most extreme tests in our history, and I'm not just talking about market volatility, but also the need for liquidity, for price discovery, for functioning markets in the face of poor marketwide circuit breakers, for tens of billions of dollars of index rebalances in extraordinary markets and with most teams of BlackRocks and our partners working from home.
+
+The most important thing that happened this quarter was in the face of these extreme tests, iShares functioned efficiently and provided a better way for investors to access markets through this turbulence. They have proved that they do what we said that they would do. And let me just give you four facts.
+
+The first, simply, is usage. When volatility surge, investors increasingly used ETFs to allocate capital and transfer risk. In the latter half of the quarter, ETFs averaged 37% of the tape [Phonetic] versus 27% in 2019. The second fact is that through these market swings, ETFs provided a better way for investors to access markets, specifically in many instances, it was cheaper to trade the ETF, than it was to trade the basket of underlying securities. While ETF spreads have widened in line with the market, the spreads of the most frequently traded iShares those with ADV of greater than $100 million are tighter than our competitors.
+
+Third, extreme volatility in the equity markets showcase the successful implementation of market structure improvements from the last five years to resume after trading halts. Despite facing market wide circuit breakers on four distinct days in March, ETFs and iShares resumed trading normally. And finally, as in prior high velocity market episodes, iShares provided price discovery to the bond market.
+
+ETFs have been modernizing the bond market by contributing real-time information about pricing and market conditions. To take just one example, on March 12th, an especially volatile day, the iShares investment grade bond ETF LQD traded almost 90,000 times, while its top five holdings traded an average of 37 times.
+
+Across multiple fixed income sub asset classes, mortgages, investment grade, high yield, even treasuries, iShares ETF prices were leading indicators of actionable markets. Now our teams are constantly monitoring the market to ensure that our iShares are performing as clients expect them to. We are constantly surveilling a few of those in quality metrics across several thousand ETFs globally.
+
+But there are four metrics that you can use to assess the health and trading quality of iShares especially in periods of volatility. The first is usage. ETF, as a percentage of equity or bond trading volumes. As markets get more volatile, more investors turned to ETFs especially iShares, and this is a significant strategic advantage.
+
+The second metric is trading costs relative to the underlying assets, and how do ETF bid offer spreads compare to the underlying equity or bond portfolios. iShares have proven to be more efficient than competitors, and the market, which is why total cost matters more than just total expense ratio, especially for tactical allocators.
+
+The third metric is price discovery. Discounts and premium to NAV are one indicator, but they aren't decisive. Sometimes the ETF is providing discovery and one way to determine if an ETF is providing price discovery to markets is look to the underlying volume of trading in the ETF versus the volume of trading in the underlying securities markets themselves. Not all ETFs do this, but iShares consistently does this better than competitors.
+
+And finally, there is tracking. This is something we are laser focused on, not just in ETFs, but across the entire indexing business of BlackRock. For example, flagship, fixed income, iShares tracked performance at just 3 basis points in the quarter while competitors tracked in the double-digits.
+
+The volatility of our tracking was also lower than our peers over the course of this historically turbulent quarter, highlighting the efficiency with which we manage our products. Now, iShares' performance under extreme conditions is unlocking new sources of client demand and expanding our opportunity set. Let me just give you color from three accelerants that we're seeing that fuel our optimism for the medium and longer term.
+
+The first stems from what we've been referencing throughout this call; the growth of fixed income, ETF usage and the modernization of the bond market itself. Since February, we have had hundreds of conversations and reached thousands of clients from pension funds to large wealth managers to asset managers to insurance companies about our fixed income ETFs. In nearly every case, when we took them through the facts and showed them how iShares performed under extreme cases, they came away reassured. We've even started to convert long term skeptics.
+
+Towards the end of the quarter, we saw first-time buyers among significant asset managers, insurance companies and pension funds globally, deploying a few billion to start toward our fixed income iShares lot. This is part of a bigger movement, it's one that Larry and Rob have spoken about which is the modernization of the bond market. And this latest extreme test is another proof point about how iShares are becoming an essential technology in the fixed income market.
+
+And when that market is under stress, investors turn to iShares even more. Our conviction is even stronger today, that fixed income ETFs will be a $2 trillion market over the next four years with a significant growth opportunity for BlackRock. The second accelerant stems from the growth of model portfolios globally. In times of volatility, we see more investors, especially in wealth management move to discretionary model portfolios.
+
+The reasons are straightforward, they're simpler, cheaper, more diversified and tend to perform better over the medium term. iShares benefits in two ways, through the models that BlackRock manages and even more significantly through the models that third parties, often our clients manage themselves, where iShares plays a central role at the core and increasingly in factors and ESG.
+
+Last year, growth in models accounted for about 30% of iShares flows in the United States, and we're seeing that growth accelerate. Q1 was a record quarter for our managed models of iShares. Models are a critical area of growth and we think it should account for half of iShares' growth over the medium term. The third and final accelerant is sustainable ETFs, which is we think is not only a major growth area, but one that is right for indexation.
+
+Q1 was a record quarter for us and sustainable ETFs at $10 billion. We now manage $40 billion across ETFs and index mutual funds. But these are just early days. Client demand has surprised us to the upside. We are seeing iShares being bought as part of tax loss harvesting campaigns, as core parts of asset allocation and model portfolios and is tactical exposures by institutional investors.
+
+IShares is leading the market in part because of product and education, but also commitment and an intention to focus on building out a global and diverse set of products that now numbers 100 across ETFs and index funds. We expect our sustainable ETFs are going to grow 4x or 5x, over the next three to four years. I hope you better understand forces that are driving our flows this quarter especially precision, market driven, segments and institutional clients in the diversity of the platform. That doesn't make the next quarter and the one after that any easier to predict. Even with the upswing that we've seen in the past couple of weeks.
+
+But what is both predictable and stronger as a result of Q1 are two things. The resiliency and performance of iShares in the face of the most extreme tests that we have faced in our history, and the growth opportunities that these tests and the accelerants are driving. As we look at that medium to long term, our confidence in iShares and our prospects for double-digit asset growth, strong revenue growth and market leadership remains strong.
+
+So with that, I'd like to turn it back to Larry.
+
+Larry Fink -- Chairman and Chief Executive Officer
+
+Thank you, Salim. I want to thank all of you for joining us this morning. Hopefully, you heard from -- hearing from Salim and Rob. I hope you get a sense of the depth of the leadership team at BlackRock beyond Rob Kapito, and myself. I hope you also found today's insights helpful in better understanding how BlackRock is helping our clients and our employees navigate this unprecedented environment and how our diverse business model provides us a greater resiliency in times like this.
+
+Strategic investments we made over recent years in key areas for growth continues to deliver, and we believe BlackRock is more differentiated in this environment than ever before. I cannot be prouder of how BlackRock's 16,000 employees have come together, during this time to help one another and to ensure we're doing everything we can on behalf of all our clients worldwide.
+
+With that, let's open it up for questions.
+

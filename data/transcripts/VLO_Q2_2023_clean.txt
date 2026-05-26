@@ -1,0 +1,550 @@
+Operator
+Greetings, welcome to the Valero Energy Corp Second Quarter 2023 Earnings Call. At this time, all participants are on a listen-only mode. A brief question and answer session will follow the formal presentation. If anyone should require operator assistance during the conference, please press star zero on your telephone keypad. As a reminder, this conference is being recorded. It is now my pleasure to introduce your host, Homer Bhullar, Vice President, Investor Relations and Finance. Thank you. Please go ahead.
+
+Homer Bhullar
+VP of Investor Relations and Finance, Valero Energy
+Good morning, everyone, and welcome to Valero Energy Corporation's second quarter 2023 earnings conference call. With me today are Lane Riggs, our CEO and President, Jason Fraser, our Executive Vice President and CFO, Gary Simmons, our Executive Vice President and COO, and several other members of Valero's senior management team. If you have not received the earnings release and would like a copy, you can find one on our website at investor.valero.com. Also attached to the earnings release are tables that provide additional financial information on our business segments and reconciliations and disclosures for adjusted financial metrics mentioned on this call. If you have any questions after reviewing these tables, please feel free to contact our investor relations team after the call. I would now like to direct your attention to the forward-looking statement disclaimer contained in the press release.
+
+In summary, it says that statements in the press release and on this conference call that state the company's or management's expectations or predictions of the future are forward-looking statements intended to be covered by the safe harbor provisions under federal securities laws. There are many factors that could cause actual results to differ from our expectations, including those we've described in our earnings release and filings with the SEC. I'll turn the call over to Lane for opening remarks.
+
+Lane Riggs
+President and CEO, Valero Energy
+Thank you, Homer, good morning, everyone. Before we discuss quarterly results, I want to thank Joe Gorder for everything he's done to build upon Valero's 43-year history. Joe steered a repositioning of our strategy and the commitment to shareholder returns through capital discipline, innovation, and strong execution. I'm grateful for his leadership and proud of what Valero has accomplished, I'm honored to build on that foundation as we continue to advance our position as a leading manufacturer of liquid transportation fuels. Moving on to quarterly results, we are pleased to report solid financial results in the second quarter, underpinned by our strong execution across all of our business segments. Our refineries ran well, with throughput capacity utilization of 94%, as the refinery margins were supported by continued tight product supply and demand balances.
+
+Product demand was strong, with our US wholesale system setting a sales record of over 1 million barrels per day in May and June. We also had a positive contribution from the Port Arthur Coker project, which was started up in early April and is operating well and at full capacity. The new coker has increased the refinery's throughput capacity and enhanced its ability to process incremental volumes of heavy crude and residual feedstocks. Our renewable diesel segment set records for operating income and sales volumes in the second quarter, driven by incremental production volumes from Diamond Green Diesel, Port Arthur. The Diamond Green Diesel sustainable aviation fuel project at Port Arthur is progressing on schedule. The plant is expected to have the ability to upgrade 50% of the current 470 million gallon annual renewable diesel production capacity to sustainable aviation fuel or SAF.
+
+It's expected to be complete in 2025 and is estimated to cost $315 million, with half of that attributable to Valero. With the completion of this project, DGD is expected to become one of the largest manufacturers of SAF in the world. These projects expand our long-term competitive advantage, I want to commend our projects and operations teams for their dedication and execution. We also continue to evaluate other opportunities while maintaining capital discipline and honoring our commitment that all projects meet a minimum return threshold. On the financial side, we returned 53% of the adjusted net cash provided by operating activities to shareholders through dividends and share repurchases in the second quarter. We ended the second quarter with a net debt to capitalization ratio of 18%.
+
+Looking ahead, we expect low global light product inventories and tight product supply and demand balances to continue to support refining fundamentals. Global demand for transportation fuels has recovered substantially, with gasoline and diesel demand now comparable to pre-pandemic levels, and jet fuel demand continues to increase steadily. In closing, we remain committed to the core strategy that has been in place under Joe's leadership for nearly a decade. Our focus on operational excellence, capital discipline, and honoring our commitment to shareholder returns has served us well and will continue to anchor our strategy going forward. Homer, with that, I'll hand the call back to you.
+
+Homer Bhullar
+VP of Investor Relations and Finance, Valero Energy
+Thanks, Lane. For the second quarter of 2023, net income attributable to Valero stockholders was $1.9 billion or $5.40 per share, compared to $4.7 billion or $11.57 per share for the second quarter of 2022. Second quarter 2022 adjusted net income attributable to Valero stockholders was $4.6 billion or $11.36 per share. The refining segment reported $2.4 billion of operating income for the second quarter of 2023, compared to $6.2 billion for the second quarter of 2022. Adjusted operating income was $6.1 billion for the second quarter of 2022. Refining throughput volumes in the second quarter of 2023 averaged 3 million barrels per day, implying a throughput capacity utilization of 94%.
+
+Refining cash operating expenses were $4.46 per barrel in the second quarter of 2023, lower than guidance of $4.60, primarily attributed to lower than expected natural gas prices. Renewable diesel segment operating income was $440 million for the second quarter of 2023, compared to $152 million for the second quarter of 2022. Renewable diesel sales volumes averaged 4.4 million gallons per day in the second quarter of 2023, which was 2.2 million gallons per day higher than the second quarter of 2022. The higher sales volumes in the second quarter of 2023 were due to the impact of additional volumes from the startup of the DGD Port Arthur plant in the fourth quarter of 2022.
+
+The ethanol segment reported $127 million of operating income for the second quarter of 2023, compared to $101 million for the second quarter of 2022. Adjusted operating income for the second quarter of 2022 was $79 million. Ethanol production volumes averaged 4.4 million gallons per day in the second quarter of 2023, which was 582,000 gallons per day higher than the second quarter of 2022. For the second quarter of 2023, G&A expenses were $209 million, and net interest expense was $148 million. Depreciation and amortization expense was $669 million, and income tax expense was $595 million for the second quarter of 2023. The effective tax rate was 22%.
+
+Net cash provided by operating activities was $1.5 billion in the second quarter of 2023. Excluding the unfavorable change in working capital of $1.2 billion in the second quarter and the other joint venture member's share of DGD's net cash provided by operating activities, excluding changes in its working capital, adjusted net cash provided by operating activities was $2.5 billion. Regarding investing activities, we made $458 million of capital investments in the second quarter of 2023, of which $382 million was for sustaining the business, including costs for turnarounds, catalysts, and regulatory compliance, and $76 million was for growing the business. Excluding capital investments attributable to the other joint venture members' share of DGD, capital investments attributable to Valero were $433 million in the second quarter of 2023.
+
+Moving to financing activities, we returned over $1.3 billion to our stockholders in the second quarter of 2023, of which $367 million was paid as dividends and $951 million was for the purchase of approximately 8.4 million shares of common stock, resulting in a payout ratio of 53% of adjusted net cash provided by operating activities. Last week, we announced a quarterly cash dividend on common stock of $1.02 per share, payable on September 5th, 2023, to holders of record at the close of business on August 3rd, 2023. With respect to our balance sheet, we ended the quarter with $9 billion of total debt, $2.3 billion of finance lease obligations, and $5.1 billion of cash and cash equivalents.
+
+The debt-to-capitalization ratio, net of cash and cash equivalents, was 18% as of June 30, 2023. We ended the quarter well-capitalized with $5.4 billion of available liquidity, excluding cash. Turning to guidance, we expect capital investments attributable to Valero for 2023 to be approximately $2 billion, which includes expenditures for turnarounds, catalysts, and joint venture investments. About $1.5 billion of that is allocated to sustaining the business and the balance to growth.
+
+For modeling our third quarter operations, we expect refining throughput volumes to fall within the following ranges: Gulf Coast at 1.77 million-1.82 million barrels per day, Midcontinent at 450,000-470,000 barrels per day, West Coast at 240,000-260,000 barrels per day, and North Atlantic at 435,000-455,000 barrels per day. We expect refining cash operating expenses in the third quarter to be approximately $4.70 per barrel. With respect to the renewable diesel segment, we expect sales volumes to be approximately 1.2 billion gallons in 2023. Operating expenses in 2023 should be $0.49 per gallon, which includes $0.19 per gallon for non-cash costs such as depreciation and amortization.
+
+Our ethanol segment is expected to produce 4.4 million gallons per day in the third quarter. Operating expenses should average $0.39 per gallon, which includes $0.05 per gallon for non-cash costs such as depreciation and amortization. For the third quarter, net interest expense should be about $145 million, and total depreciation and amortization expense should be approximately $690 million. For 2023, we expect G&A expenses, excluding corporate depreciation, to be approximately $925 million. That concludes our opening remarks. Before we open the call to questions, please adhere to our protocol of limiting each turn in the Q&A to two questions. If you have more than two questions, please rejoin the queue as time permits to ensure other callers have time to ask their questions.
+
+Operator
+Thank you. The floor is now open for questions. If you would like to ask a question, please press star one on your telephone keypad at this time. A confirmation tone will indicate your line is in the question queue. You may press star two if you would like to remove your question from the queue. For participants using speaker equipment, it may be necessary to pick up the handset before pressing the star keys. Again, that is star one to register questions at this time. Today's first question is coming from Manav Gupta of UBS. Please go ahead.
+
+Manav Gupta
+Executive Director, UBS
+Guys, just want to quickly start with and congratulate Gary for the promotion and the new role, and all our best wishes are with you. The first question I have for you is that when we look at DGD, you guys have a track record of bringing projects online before time. Is there a possibility, a year down the line, you could take a look at it and say, we would like to have similar upgrades possible at DGD one and two to make more sustainable aviation fuel on a go-forward basis?
+
+Eric Honeyman
+SVP of Renewable Operations and Low Carbon Fuels, Valero Energy
+Yeah. Hey, Manav, this is Eric. Obviously, that is a possibility because, you know, those are cookie-cutter units, and we could do the exact same project at St. Charles that we are currently underway at Port Arthur. It's, you know, it's too early to talk about any numbers or commitment, but yes, that's definitely something we're looking at and something that we could do.
+
+Manav Gupta
+Executive Director, UBS
+Good. The second question here is, the DOE data is telling us whatever it is, and there are obviously some concerns around demand out there, but the cracks are telling us a completely different story. The cracks are telling us the demand for products is remarkably strong. Just wondered if you could highlight what you're seeing in terms of demand in various regions.
+
+Gary Simmons
+EVP and COO, Valero Energy
+Manav, this is Gary. We do believe that the DOE is understating gasoline demand, you know, even their data is showing on a four-week average basis, gasoline demand up about 3%. If you look at our numbers, of course, Lane mentioned we had record volumes in both May and June of over 1 million barrels a day. We're seeing gasoline sales in our system up 14% year-over-year, up 22% from pre-pandemic levels. Gasoline inventory year-over-year is down 7.5 million barrels, it's trending at the low end of the five-year average range.
+
+Typically, this time of year, you have an open arb to ship barrels from Europe into the United States, with inventory low in Europe, that arb is closed, which is hindering imports, and we see strong export demand from the US Gulf Coast into South America. The fundamentals around gasoline look very good. Diesel inventory is up 6 million barrels, continues to trend below the five-year average range. Diesel inventory is flat, where historically, this time of year, we start to see diesel building. Again, you know, while the DOE reflects weaker diesel demand year-over-year, it looks like the weekly data is continually being revised up. Although we, you know, certainly admit that we had a weaker heating oil season, diesel demand looks fairly similar to last year.
+
+We move forward a lot of encouraging signs around diesel, you know, where we saw a weaker tonnage index in the second quarter. The June data reflects that the tonnage index is picking back up. We'll start to see more agricultural demand as we get into harvest season and more heating oil demand as we get into colder weather. Continue to see very good export demand from the US Gulf Coast into South America. Some of that has fallen off as we've replaced some supply with Russian barrels, but largely been replaced with more export demand from the US Gulf Coast into Europe. Jet demand also picking up, you know, and had a positive impact on overall distillate supply-demand balances. The distillate demand, you know, looks up 10% year-over-year, looks pretty strong. All the airlines are reporting very strong demand.
+
+Jet trading at a $0.10 cent per gallon premium in the US Gulf Coast on a rent-adjusted basis today. Yes, the fundamentals look very, very good.
+
+Manav Gupta
+Executive Director, UBS
+Thank you so much for a detailed response. Thank you.
+
+Operator
+Thank you. The next question is coming from John Royall of JP Morgan. Please go ahead.
+
+John Royall
+Executive Director, JPMorgan
+Hey, good morning. Thanks for taking my question. My first one is just on the Coker. It sounds like you're running full now in the startup when it's planned, but maybe you can just go through any puts and takes around profitability. I know heavy dips have come in, for example, but diesel cracks are improving recently, and should we think about there being a structurally higher Gulf Coast capture now? Any way to think about quantifying that?
+
+Greg Bram
+Corporate VP of Refining Services, Valero Energy
+Hey, John, this is Greg Bram. You know, as Lane mentioned, the Coker started up in April. I think it's probably worth noting, you know, the project and operating teams did a great job bringing that unit online safely without incident, and that's after we accelerated the schedule last year to be in a position to capture value from that project here in 2023. We've ramped it up to full capacity over the course of the quarter, and it's running well and meeting expectations. I think, with that, you can take kind of the guidance we've given in the past and think about where, where the market is today and adjust accordingly. I don't think we have really a new or different view because the project is really doing what we expected it to do.
+
+John Royall
+Executive Director, JPMorgan
+Great. Then, maybe along the same lines, it'd be great to get your thoughts on heavy and medium sour diffs from here with OPEC+ cutting and the second round of the SPR release is now over. What are your thoughts on whether we'll see a widening from here on mediums and heavies, or will we likely stay in the current environment, where from a sour diffs perspective?
+
+Gary Simmons
+EVP and COO, Valero Energy
+Yeah, this is Gary. I think, you know, we have seen the discounts widen back out some as we've moved throughout the third quarter. I think there's some reason for optimism, you know, as we head into fall turnaround season, PADD 2 and 3, you'll see some decreased demand for heavy sour crude, which will help the differential some. You know, I think we'll see some more production growth out of Western Canada as they come out of maintenance season, which will put more barrels back on the market. Should continue to see a ramp up in Chevron production from Venezuela heading into the US Gulf Coast. Finally, there's some seasonal factors, which should help the discounts as well.
+
+You know, high sulfur fuel for power burn will begin to wind down seasonally, which will put more high sulfur fuel on the market, help the discounts there. Then as we transition into winter weather, you would expect to see higher natural gas prices, which changes the economics of, for some refineries around the world that have been processing medium and heavy sour crudes, which should help the discounts as well.
+
+John Royall
+Executive Director, JPMorgan
+Thank you.
+
+Operator
+Thank you. The next question is coming from Theresa Chen of Barclays. Please go ahead.
+
+Theresa Chen
+Senior Analyst of Midstream and Refining Equity Research, Barclays
+Morning. On the SAF front, would you mind giving an update on the Navigator BlackRock CCS project? How's the permitting and right-of-way procurement process going?
+
+Rich Walsh
+Senior VP, General Counsel and Secretary, Valero Energy
+Hey, Teresa, it's Rich. I'll start out by saying that the Navigator project is progressing. They've got parallel proceedings in front of each of the state's respective utility boards and/or counties, the regulatory proceedings in Iowa are taking longer than they anticipated. Navigator is not expecting regulatory approval until the back half of 2024, which will naturally push their timeline back.
+
+Theresa Chen
+Senior Analyst of Midstream and Refining Equity Research, Barclays
+Thank you.
+
+Rich Walsh
+Senior VP, General Counsel and Secretary, Valero Energy
+They hadn't given any update on the new startup schedule.
+
+Theresa Chen
+Senior Analyst of Midstream and Refining Equity Research, Barclays
+Thank you. In terms of additional SAF opportunities in the DGD facilities, Eric, can you just opine a bit more on, you know, how would you think about, like, the key hurdles it would take to cross to commercialize additional FIDs?
+
+Eric Honeyman
+SVP of Renewable Operations and Low Carbon Fuels, Valero Energy
+Yeah, I think, you know, what I would say about SAF is the airlines are still in very much an educational phase of this. What they're still trying to wrestle with is, you know, I think there's a good understanding of it's gonna come from RD. They're starting to understand the credit markets and how they work. As you know, all of these SAF demands, a lot of them are voluntary from the carriers and as well as because it's voluntary, they've got options on, do they want to accept allocation? Do they want to accept, you know, which model do they wanna operate under? Where in the world do they want to, you know, run these barrels?
+
+I think the learning that everyone is working through right now is conventional jet is a fungible product, the SAF will naturally move into fungible markets, just like jet fuel does. But as airlines want the specific molecule at their particular location, particular airport, even at the airports, it then becomes a fungible product. All of that becomes a conversation of, okay, how do you then take that sort of real-life logistics and apply it into these policies and goals, and how do you wanna set up, you know, a commercial deal with that? You know, there's still a lot of details being worked through on how this will physically move into the market, and then as a result of that, how it will price. I think airlines are still working through a lot of those details.
+
+I don't see any drop in interest or demand. We see demand still growing strongly through 2030. I think there's still a lot of upside in this outlook. We have to work through these commercial details and logistical details.
+
+Theresa Chen
+Senior Analyst of Midstream and Refining Equity Research, Barclays
+Thank you.
+
+Operator
+Thank you. The next question is coming from Doug Leggate of Bank of America. Please go ahead.
+
+Doug Leggate
+Managing Director and Head of Global Oil & Gas Equity Research, Bank of America
+Thanks. Good morning, everybody. Gary, perhaps I could pick on you a little bit, given your recent good news. Congrats from me as well. Diesel, a couple months ago, you know, the world was coming to an end and in terms of consensus expectations, today we're back at winter-type premiums for distillate crack. I know you touched on it already in some of your comments, but can you maybe speak to what you're seeing that's driving that strength? I wanna address specifically what you're seeing in Asia as it relates to trading. Our understanding is Chinese exports are down, maybe that's creating some tightness globally. I'm just wondering if you can offer any perspective as to why distillate is as strong as it is today.
+
+Gary Simmons
+EVP and COO, Valero Energy
+I think you definitely saw, you know, as China ramped up and they didn't have the domestic demand keep up with that. Initially, you saw a lot of Chinese exports. Some of those barrels were making their way into Europe. You had some, you know, trade flows that needed to rebalance with the Russian sanctions. Initially we saw decreased demand from Latin America, diesel was starting to back up in the US. As trade flows have rebalanced, you know, the Russian barrels that are making their way into Latin America, that gap has largely been filled by increased demand from Europe. If you look for, in our system, in the second quarter of last year, our exports pretty comparable to the second quarter of this year.
+
+Last year, 95% of our volume went to Latin America, 5% to Europe. Second quarter of this year, we had 60% of our exports go to Latin America, with 40% to Europe. You're starting to just see a big pull of diesel from the US Gulf Coast into Europe. We saw it in the second quarter, and thus far in the third quarter, that's continuing, and to me, that's the real difference.
+
+Doug Leggate
+Managing Director and Head of Global Oil & Gas Equity Research, Bank of America
+The, now I hope this isn't a second question, this is kind of a clarification question. Are you suggesting Russian exports are starting to, you know, they're starting to slow, which I think was the expectation. Is that, am I reading your comments correctly?
+
+Gary Simmons
+EVP and COO, Valero Energy
+You know, I, we have seen Russian exports slow. I don't know if that's just maintenance activity occurring in Russia, what's driving it. We have seen some of the South American demand that we feel like we lost to Russian barrels, that those countries are back inquiring for supply from us again.
+
+Doug Leggate
+Managing Director and Head of Global Oil & Gas Equity Research, Bank of America
+Okay, thank you. My follow-up is on capture rates. You know, it, it seems to us, I mean, refining looked in line with consensus for this quarter, but that's with pretty weak capture in the MidCon and North Atlantic. I, I'm curious if you can walk us through whether that's transitory, if there was anything specific in the quarter and how you see it trending so far in the third quarter? Whoever wants to take that. Thanks.
+
+Greg Bram
+Corporate VP of Refining Services, Valero Energy
+Doug, this is Greg. As you mentioned, the overall capture rates were pretty consistent with what we'd expect from a 1Q to 2Q move. I should mention from the earlier question, in the Gulf Coast, the coker was a positive impact, the new coker on capture rates in the Gulf. As you mentioned in the MidCon, lower there, primarily due to turnaround activity, and you can see that in our lower throughput rates in second quarter versus the first quarter. In the North Atlantic, we tend to always see a seasonal shift in the value of Canadian distillates up in that market, strong in the winter and then coming off in the spring and summertime. That was one of the effects we saw there.
+
+The one that was a bit more unique to this particular period was just higher costs for Syncrude coming out of Canada, primarily impacted by some maintenance and also the wildfires they had up there.
+
+Doug Leggate
+Managing Director and Head of Global Oil & Gas Equity Research, Bank of America
+How is it trending in Q3?
+
+Greg Bram
+Corporate VP of Refining Services, Valero Energy
+Yeah, we're starting to see it moderate a bit. It'll take some time. That usually is not just a very short, short-term effect. We expect that it will start to improve.
+
+Doug Leggate
+Managing Director and Head of Global Oil & Gas Equity Research, Bank of America
+All right. Thank you, guys.
+
+Gary Simmons
+EVP and COO, Valero Energy
+Thanks.
+
+Operator
+Thank you. The next question is coming from Paul Sankey of Sankey Research. Please go ahead.
+
+Paul Sankey
+Lead Analyst, Sankey Research
+Morning, all.
+
+Gary Simmons
+EVP and COO, Valero Energy
+Morning, Paul.
+
+Paul Sankey
+Lead Analyst, Sankey Research
+Congratulations, Gary. Can we just keep going a little bit with the outages? On the OPEC cuts, can you talk a little bit about the impact they've been having on markets from your perspective? The Mexican explosion was another obvious one. Just a commentary on how disrupted the crude market is from a buyer's point of view right now. I got you on Russia. You seem to more or less address that already through Doug. Thanks.
+
+Gary Simmons
+EVP and COO, Valero Energy
+Certainly, you know, the big move in the crude markets has been the OPEC+ production cuts. You know, 4.5 million barrels a day off the market, I think you're seeing that as global oil demand picks up, those barrels are not yet back on the market. You're seeing flat price trend higher, you've definitely seen it in the quality differentials as well. In addition to the OPEC+ cuts, there were a number of other issues, as you mentioned. We had maintenance in Canada, the wildfires in Canada, the platform fire in Mexico. You kind of went from a seller out of the SPR to a buyer into the SPR. All of those things had a significant impact on the quality differentials in the second quarter. We're seeing some of those things start to reverse as we move into the third quarter.
+
+Paul Sankey
+Lead Analyst, Sankey Research
+Got it. On the outages in refining, I mean, there was reports of lots of different things happening, not least because of the heat in Texas. Could you talk a bit about anything that happened with you guys in the quarter, also how the industry perhaps was, you know, perhaps throughput was a bit distorted by various units being down and stuff? Thanks.
+
+Greg Bram
+Corporate VP of Refining Services, Valero Energy
+Paul, this is Greg. I don't know that we can speak a whole lot to what was going on elsewhere. Our operations were very good for the quarter. You know, good mechanical availability in line with kind of our typical first quartile type of performance. The weather has had just a very modest impact on any of our operation.
+
+Paul Sankey
+Lead Analyst, Sankey Research
+Got it. Just finally, a quick one. The 14% you talked about of wholesales up, is obviously you taking market share. It seems to be driven by your renewable fuels, right? How do we explain the difference between your strength of sales versus the overall market being way below that?
+
+Greg Bram
+Corporate VP of Refining Services, Valero Energy
+No, that wouldn't include really what we're talking about on renewables. That would be strictly our U.S. wholesale volumes. I think some of it, you know, is due to rationalization that occurred in the industry that allowed us to be more competitive. You know, we've gone through, and in many locations, renegotiated terminal agreements that just allow us to be more competitive in some regions where we haven't been historically and capture additional market share.
+
+Paul Sankey
+Lead Analyst, Sankey Research
+Got it. Thanks very much.
+
+Operator
+Thank you. The next question is coming from Ryan Todd of Piper Sandler. Please go ahead.
+
+Ryan Todd
+Managing Director and Senior Research Analyst, Piper Sandler
+Great, thanks. maybe a question on the renewable diesel side. I mean, Obviously, very strong performance in the quarter. Can you talk about sales in the quarter, which were, I mean, stronger than we had expected? also had a very strong capture rate, which was much improved, and certainly, I think, you know, some benefit from fast pricing there. Can you talk about, you know, sales? What are the drivers there, implications as we look forward, the back half of this year, both on sales and, you know, kind of margin and capture on the renewable diesel side?
+
+Gary Simmons
+EVP and COO, Valero Energy
+Yeah, we definitely had. There's always some timing of ships in our numbers for the quarter, but we do also have the unit running above its original design capacity. We are running higher rates at DGD 3, as well as, seeing strong sales throughout the world as we move into a lot of production, moving into Canada with its new CFR that went live in July. There's other states that are coming on beyond California. Overall, yeah, we did see increased sales due to the combination of some timing of ships. Obviously we're running above design rates.
+
+Ryan Todd
+Managing Director and Senior Research Analyst, Piper Sandler
+On the margin capture side, any general comments on what you're seeing? I mean, headline indicators have been falling, but your capture was much improved.
+
+Gary Simmons
+EVP and COO, Valero Energy
+The margin capture side, we definitely saw fat prices lower in the second quarter. We saw waste oils become advantaged again, so that improves a lot of our capture rate. You know, if we talk a little bit about RINs and LCFS, those have been pretty much as expected. LCFS market's been relatively flat. The EPA came out with its new RIN outlook, and it was largely unchanged, so, but overall, that's mostly a product. You know, Gary mentioned we've seen strong ULSD demand. That's the basis of the formula, plus, I would say, more attractive fat prices, as you already mentioned.
+
+Ryan Todd
+Managing Director and Senior Research Analyst, Piper Sandler
+Good. Thanks. maybe on a different note, with the startup of the Port Arthur Coker and the capital rolling off from that in terms of growth CapEx, you obviously have the SAF project underway, you know, what types of projects might compete for growth capital going forward? Is it more likely to be, you know, incremental SAF capacity? Are there things on the refining side that you're looking at, you know, whether it's something to increase octane production or anything like that on the margin side, that could compete for capital as you, as you think about the next couple of years?
+
+Lane Riggs
+President and CEO, Valero Energy
+Hey, yes, this is Lane. You can really expect us to continue to look, optimize, and look at opportunities around our existing assets. We've been doing that. Some of them aren't big or flashy, but in cumulative, you know, they'll have an effect on our, on our overall performance, and we continue to gate those, just like we always have. This other side of the business, our renewable side, you know, we're looking at the potential to always to gate and develop innovative projects that are sort of in the transportation fuel space, that leverage our operations excellence and our project execution capabilities.
+
+Roger Read
+Senior Energy Analyst, Wells Fargo
+Yeah. Thanks, Lane.
+
+Lane Riggs
+President and CEO, Valero Energy
+Yep.
+
+Operator
+Thank you. The next question is coming from Joe Laetsch of Morgan Stanley. Please go ahead.
+
+Joe Laetsch
+Executive Director of Energy Equity Research, Morgan Stanley
+Great. Thanks, everybody, for taking my questions today. I wanted to go back to capture rate here. We noticed just on the West Coast, refining margins were really strong during the quarter. Could you just touch on some of the drivers here and how we should think about the setup for the third quarter?
+
+Greg Bram
+Corporate VP of Refining Services, Valero Energy
+Yes, this is Greg. On the West Coast, we had great operations out there, but the really, the thing to note there is Benicia has a very, very high gasoline yield in terms of its products mix. When gasoline is very strong relative to distillate products out in the West Coast, we see strong capture rates out there, driven by Benicia's yield. That's the primary factor you saw in the second quarter.
+
+Joe Laetsch
+Executive Director of Energy Equity Research, Morgan Stanley
+Great. Thanks. That's helpful. Then, just my second one is just on OpEx and just the drivers of higher OpEx in third quarter versus 2Q. Is that on the net gas side, or how should we think about that?
+
+Lane Riggs
+President and CEO, Valero Energy
+This is Lane. I think it's really driven by slightly a higher outlook for natural gas in the third quarter than the second quarter.
+
+Joe Laetsch
+Executive Director of Energy Equity Research, Morgan Stanley
+Perfect. Thank you.
+
+Operator
+Thank you. The next question is coming from Roger Read of Wells Fargo. Please go ahead.
+
+Roger Read
+Senior Energy Analyst, Wells Fargo
+Yeah, hello, good morning, and congrats to everybody on their, their new roles here.
+
+Lane Riggs
+President and CEO, Valero Energy
+Hi, Roger.
+
+Roger Read
+Senior Energy Analyst, Wells Fargo
+Well, Lane, I'd like to hit the, the diesel question a, a slightly different way. Last winter, we saw pretty unusually warm weather throughout the Northern Hemisphere. Going back, I think y'all addressed this on the last call, but what do you think the missing demand was last year from a weather standpoint? When we think about the upcoming winter and, you know, we always just model normal weather, what would we potentially be looking at from a demand step up?
+
+Eric Honeyman
+SVP of Renewable Operations and Low Carbon Fuels, Valero Energy
+You know, Roger, we have modeled that, but I don't have the number in front of me, and I don't want to give you a bad number, but we can, we can follow up with you with Homer and get you the number we had on heating oil demand.
+
+Roger Read
+Senior Energy Analyst, Wells Fargo
+Okay, that's helpful. The other is, we have, as I think somebody mentioned earlier, you know, seeing diesel move back up over gasoline. Can you give us an idea of how you've run in terms of being max diesel or, or I should say, max distillate or max gasoline as we've been coming through this summer?
+
+Greg Bram
+Corporate VP of Refining Services, Valero Energy
+Roger, we've been mostly in max gasoline mode, but we've been watching that movement between those two products. We'll make that shift when we start to see that kind of swing cut drive us back the other way. One of the things maybe just to keep in mind is on that swing cut, you know, as you keep that heavier part of the gasoline in the gasoline pool, it pulls in more butane into the blend pool. When you look at where butane prices are currently, that's really attractive to get as much butane in the blend as you can.
+
+Roger Read
+Senior Energy Analyst, Wells Fargo
+NGLs are definitely a help and a hurt, depending on which side of the argument you're on there. Okay. Thanks, guys.
+
+Lane Riggs
+President and CEO, Valero Energy
+Thanks.
+
+Operator
+Thank you. The next question is coming from Paul Cheng of Scotiabank. Please go ahead.
+
+Paul Cheng
+Managing Director and Senior Equity Analyst, Scotiabank
+Hi, good morning.
+
+Eric Honeyman
+SVP of Renewable Operations and Low Carbon Fuels, Valero Energy
+Good morning.
+
+Paul Cheng
+Managing Director and Senior Equity Analyst, Scotiabank
+Congratulations to everyone with the new role. Yeah, may have to apologize because I joined late, so if my question already been addressed, just let me know and I will look at the transcript. Two questions. First, with the heavy oil discount and the medium sour, it's also come down by mass discount, it doesn't seem like it's really that attractive today. Is this really profitable for you guys to run those barrels? If it is not, is there any way that for you to further minimize that? Well, what is the minimum that you have to run? The second question is that in the North Atlantic, is there any reason why the margin capture dropped so severely from in the second quarter?
+
+I mean, not just comparing to the first quarter, but comparing to the last couple of years that you've been running, say, call it 100%, 95% to maybe 120%. Is there any particular reason or there is some one-off unique circumstances that we are seeing? Thank you.
+
+Lane Riggs
+President and CEO, Valero Energy
+Hey, Paul, Mr. Bram's gonna answer that.
+
+Greg Bram
+Corporate VP of Refining Services, Valero Energy
+Hey, Paul, I'll start with the first one on the different crudes. If I understood your question, yeah, we see incentive to run the heavy grades, as well as the lights right now. The advantage for heavy crudes, narrowed quite a bit as we got into the quarter. As Gary mentioned, as those differentials start to move back out, that will increase the incentive to move, you know, to continue to process the heavy grades. The medium sours have probably been the one that have been least attractive, and we would need to see those, be, you know, have a wider discount to the light sweet grades before we would start to make a shift there. On your question, your capture rate question.
+
+Paul Cheng
+Managing Director and Senior Equity Analyst, Scotiabank
+Actually, before we go into the capture, can I ask that, how much that you can, maybe further minimize on the medium sour?
+
+Greg Bram
+Corporate VP of Refining Services, Valero Energy
+Yeah, we can minimize quite a bit. You know, Paul, one thing to keep in mind is, you know, there's different parts of the country, different parts of even the Gulf Coast region, where the medium sours, you know, particular grades will still be attractive to run, and we'll process those. In the places where that medium grade is not as attractive, the easiest way to think about it is, in a lot of cases, we can run a combination of heavy and lights to essentially kind of mirror what a medium grade looks like, but do that at a lower cost than buying the medium sour crude itself.
+
+Paul Cheng
+Managing Director and Senior Equity Analyst, Scotiabank
+Okay, thank you.
+
+Greg Bram
+Corporate VP of Refining Services, Valero Energy
+Okay, your capture rate, was that around the North Atlantic?
+
+Paul Cheng
+Managing Director and Senior Equity Analyst, Scotiabank
+North Atlantic. That's correct.
+
+Greg Bram
+Corporate VP of Refining Services, Valero Energy
+Yeah. Paul, primarily, the one thing that was unique about the second quarter was the higher crude cost, and again, driven by higher prices for Syncrude out of Canada, both maintenance and wildfire related. That was probably the thing that caused kind of that region to look different this quarter than it would typically for a second quarter period.
+
+Paul Cheng
+Managing Director and Senior Equity Analyst, Scotiabank
+Syncrude is probably what? 15%, 20% at most for your entire North Atlantic input, right?
+
+Greg Bram
+Corporate VP of Refining Services, Valero Energy
+No, it's much higher than that, Paul.
+
+Paul Cheng
+Managing Director and Senior Equity Analyst, Scotiabank
+Oh, it's much higher? Your Quebec City is really running that much Syncrude?
+
+Greg Bram
+Corporate VP of Refining Services, Valero Energy
+Our Quebec refinery runs, you know, a combination of Canadian crudes and then waterborne crudes that we bring up from the Gulf Coast.
+
+Paul Cheng
+Managing Director and Senior Equity Analyst, Scotiabank
+We good. Thank you.
+
+Operator
+Thank you. The next question is coming from Nitin Kumar of Mizuho Securities. Please go ahead.
+
+Nitin Kumar
+Senior Equity Research Analyst, Mizuho Securities
+Hi, good morning, all, and thanks for taking my question. I just want to start with, can you comment on the recent EPA decision to deny RFS waivers for small refiners, and how does that look for your ethanol business? I think you mentioned volumes were flat, but can you talk a little bit about pricing for ethanol?
+
+Rich Walsh
+Senior VP, General Counsel and Secretary, Valero Energy
+This is Rich Walsh. I can, you know, I can talk, I guess a little bit about the EPA decision. Then when it comes to pricing, I'll hand it back off to Eric Honeyman. I mean, you know, we don't have any small refinery exemptions in play, so it's, you know, it's a bit of a non, a non-factor for us. I mean, really not a lot more to share on it in that regard.
+
+Gary Simmons
+EVP and COO, Valero Energy
+Yeah, as far as the commercial impact of that, it's a bit. We see the same thing, a bit of a non-event. It's, you know, we really don't know the compliance posture of those small refiners. We don't see a big impact to any of our businesses on the small refinery exemption.
+
+Nitin Kumar
+Senior Equity Research Analyst, Mizuho Securities
+Sorry, what I was actually referring to was on your commercial side, whether you were seeing any improved demand for ethanol, because those guys don't have the exemption. I guess I'll ask a different question as well. Just on the sustaining CapEx, you mentioned $1.5 billion for this year. Are you seeing anything on the regulatory front that could increase that or increase the intensity of your sustaining CapEx in the future? Thinking of things like, you know, stringent particular emission standards or anything like that.
+
+Lane Riggs
+President and CEO, Valero Energy
+This is Lane. We, you know, when you look at our history on our, on our sustaining capital and some of these things, we are actually ahead of our competitors, with things like flare gas recovery and some of these other things. With respect to regulatory capital, we're in good shape, and we're, we're still willing to stick with our $1.5 billion of sustaining on average. That doesn't mean it can ebb and flow, really with turnaround timing.
+
+Nitin Kumar
+Senior Equity Research Analyst, Mizuho Securities
+Thank you.
+
+Operator
+Thank you. The next question is coming from Neil Mehta of Goldman Sachs. Please go ahead.
+
+Neil Mehta
+VP and Integrated Oil and Refining Analyst, Goldman Sachs
+Yeah, good morning, team. Lane, Gary, and Joe, if you're on the line, congratulations to each of you. That's kind of where I want to start. I mean, Lane, over the last couple of years, the strategic vision has been very clear and consistent. We would just love your perspective as you step into this new role. What are the two or three things that you're most focused on to take Valero to the next level?
+
+Lane Riggs
+President and CEO, Valero Energy
+Hey, thanks, Neil. I mean, Joe and I really, I worked with Joe on the strategy for the last, you know, nine years. Obviously, Joe and I go way back before that, so it's not like, you know, I've been a part of the current strategy that's been successful. I don't think you should expect us to deviate substantially from where we've been strategically. In terms of my areas of focus, I think the first area of focus is just making sure everybody understands exactly that, right? We are, you know, we've been very successful in our execution, maintaining our operations excellence, our ability to execute squarely and be great executors of projects.
+
+I want to make sure that that continues, I want to make sure that we stay disciplined, we stay predictable, and those are all the things I think I, you know, I need to make sure that's going on for, you know, the foreseeable future. Other than that, I'm gonna, just like Joe, keep working in this innovative project space, look for opportunities to spend some of our strategic capital in some of these opportunities that are around our assets, whether they're Diamond Green or SAF or some of the other things that we obviously been ahead of everybody else, and we think we can continue to be that company.
+
+Neil Mehta
+VP and Integrated Oil and Refining Analyst, Goldman Sachs
+Thanks, Lane. Then the follow-up is just around return of capital, and just maybe you could provide an update. It was another quarter where you were able to return cash in excess of sort of the brackets that you talked about historically. You know, how are you thinking about with the stock having done well here more recently, you know, continuing to lean into the buyback versus reinvest back in the business, and talk about the dividend as well?
+
+Jason Fraser
+EVP and CFO, Valero Energy
+I don't think there's any revisiting of our approach to capital due to the current really strong performance. With regard to, like buybacks and dividend, we're gonna continue our same approach as well. You know, as far as going above our long-term target of 45%-50% return to shareholders, historically, though, back before the pandemic, we had been at the high end or above our target range pretty regularly. Last year, we got back to the 45% midpoint of our range, while at the same time getting our debt back down to pre-pandemic levels and building cash. We got ourselves back in the, the good posture that we were comfortable with. We'd also said with that accomplished, we'd be at the midpoint or above going forward.
+
+In the second quarter, like you said, we were up above our 50% range. We had a 50%, 53% payout. Year to date, we're at a 52% payout. This year, we've clearly trended above 50%. Going forward, as in the past, as I said, back before COVID, this was an unusual circumstance for us. We won't hesitate to pay out above the upper end of the range for the year, where we think that's the best use of our excess cash under the circumstances. On the dividend, we continue to have the same approach to it. We want our dividend to be positioned, we want our yield to be positioned competitive versus our peers. We want it to be growing and sustainable through the cycle. That continues to be our approach on the dividend.
+
+That's how we'll set it, and then the buybacks will continue to serve as a flywheel to round out our return to get us to our targets.
+
+Neil Mehta
+VP and Integrated Oil and Refining Analyst, Goldman Sachs
+Okay.
+
+Lane Riggs
+President and CEO, Valero Energy
+Okay.
+
+Operator
+Thank you. The next question is coming from Jason Gabelman of Cowen. Please go ahead.
+
+Jason Gabelman
+Managing Director of Energy Equity Research, Cowen
+Thanks for taking my questions. First, I wanted to ask on the Renewable Fuel Standard as well, and the outlook for RIN prices and the impact to the business. There's a decent amount of concern that there's gonna be an oversupply of RINs next year, and that has implications both for Diamond Green Diesel, as well as on refining and the ability to capture some of the pass-through of the RIN cost and the crack. I was wondering if you have any comments around your RIN outlook as it relates to impacts to both of those segments, given some risk to RIN prices moving lower next year? I have a follow-up. Thanks.
+
+Eric Honeyman
+SVP of Renewable Operations and Low Carbon Fuels, Valero Energy
+Yeah, this is Eric. On the RIN prices, you know, the EPA held the ethanol requirement at 15 billion gallons, which as we've seen over the last several years, is beyond the blend wall, which means the D4 RIN will be used to fulfill that obligation. Given our outlook, we don't see a big change in RINs, RIN prices or RIN supply. We see that as relatively business as usual.
+
+Jason Gabelman
+Managing Director of Energy Equity Research, Cowen
+I mean, I guess if I could just push back a little bit, there is a lot of new renewable diesel capacity coming online next year, so it does seem like there's gonna be a lot more RIN supply. I don't know if that enters into your thought process, as you look at next year.
+
+Eric Honeyman
+SVP of Renewable Operations and Low Carbon Fuels, Valero Energy
+Yeah, you know, we're not gonna speak on everyone else's projects, but we do see that a lot of the RD projects are taking longer to come up, and their projects are being slowed down. Our outlook is the expected growth curve of RD is not gonna be as aggressive as a lot of predictions.
+
+Jason Gabelman
+Managing Director of Energy Equity Research, Cowen
+Okay, thanks. I appreciate that. My follow-up is, is just going back to the outlook on cracks, and I think a lot of investors have been surprised at the strength we're seeing in cracks, and so kind of two parts to this. One, do you think the kind of hotter than normal weather globally has supported diesel demand at all? You've already mentioned that you're not gonna comment on refining operations of your peers in the warm weather. Wondering if there's been a demand impact, though, from the hot weather? The second part is, can you talk about just given, you mentioned inventory, product inventories are low, the path forward to rebuilding those, given, you know, the global capacity seems to be running all out, how does the world restock gasoline and diesel, which are at or below historical levels? Thanks.
+
+Gary Simmons
+EVP and COO, Valero Energy
+Yeah, Jason, this is Gary. I don't know that we can see, you know, that the warmer weather has caused a significant change in diesel demand. I think, you know, where inventories are low in the United States, we're seeing the same thing globally. Low diesel inventories and a pull from the United States into, especially into Europe, very high, you know, as a result of low inventories globally. moving forward, I don't know, you know, really where the path is in terms of restocking the inventories. You look, we're 35 million barrels below the five-year average. Last year at this time, we were 35 million barrels below the -year average. We really aren't making a dent in it.
+
+If you look going forward, yes, there's new refining capacity coming online, but when you look at the stated nameplate capacity of that new refining capacity, and you look at the estimates of global oil demand growth, you know, it doesn't look like a significant impact on the supply-demand balance is going forward.
+
+Jason Gabelman
+Managing Director of Energy Equity Research, Cowen
+Great. Thanks for the color.
+
+Operator
+Thank you. The next question is coming from Matthew Blair of Tudor, Pickering Holt. Please go ahead.
+
+Matthew Blair
+Managing Director of Refining and Chemicals Research, Tudor, Pickering, Holt & Co.
+Good morning, and thanks for taking my questions. Do you have any thoughts on the expected impact on RD margins in 2025 when the BTC converts to a PTC? You know, as we look at it, it appears the $ per gallon subsidy would go down with the PTC, but then it seems like you might be helped out by just less competition from foreign RD imports. Does that make sense on your end, and is anything else you would add there?
+
+Eric Honeyman
+SVP of Renewable Operations and Low Carbon Fuels, Valero Energy
+Yeah, I think you've got that surrounded. The one thing I would add is, when you go to a carbon intensity basis for the PTC, that will advantage Diamond Green Diesel because we run the lowest CI feedstock. Whatever the PTC becomes, we will still have the highest capture of PTC versus our peers. There's no doubt that it becomes a fraction of a dollar, you know, based on CI, but we'll still have the most advantaged platform.
+
+Matthew Blair
+Managing Director of Refining and Chemicals Research, Tudor, Pickering, Holt & Co.
+Great, thank you. Then on the ethanol side, is an alcohol to jet SAF project still a long-term possibility? If so, could you compare that to what you're doing currently at DGD? Like, how do the two production techniques compare in terms of capital costs, operating costs, scale, and do airlines distinguish between the two different types of fuel?
+
+Eric Honeyman
+SVP of Renewable Operations and Low Carbon Fuels, Valero Energy
+I think. Yeah, that's a lot of questions there. What I would say is, the first question of, you know, is there a pathway to take ethanol into jet fuel? The answer is yes, post sequestration. That is, it does allow ethanol to become a viable feedstock into that market. It's way too early to talk about numbers and capital and all of that, from a project standpoint. If you look at it from the airline standpoint, they do see that the first barrel of SAF that they will get ratably will be RD based.
+
+There's, as that conversion goes through the RD markets, the next barrel could be from an ethanol source, but that's like you said, that's much further out there on the timeline. If you look at in terms of, is the technology there and, and is there a capability there, will airlines differentiate between the two? Again, probably too soon to tell, but from a fuel standpoint, there's no difference between an ethanol-based barrel versus an RD-based barrel from a, from a, from a SAF standpoint. A lot of, a lot of work to be done first on how RD will price SAF into the market, these are all much, much further down the timeline.
+
+Matthew Blair
+Managing Director of Refining and Chemicals Research, Tudor, Pickering, Holt & Co.
+Understood. Thanks for your comments.
+
+Operator
+Thank you. At this time, I'd like to turn the floor back over to Mr. Bhullar for closing comments.
+
+Homer Bhullar
+VP of Investor Relations and Finance, Valero Energy
+Thanks, Donna. Appreciate everyone joining us today, and please feel free to contact the IR team if you have any follow-up questions. Have a great day, everyone.
+
+Operator
+Ladies and gentlemen, thank you for your participation. This concludes today's event. You may disconnect your lines at this time and enjoy the rest of your day.
+
+Powered by
+
+Play Audio
+
+Speakers (21)
+
+Quarterly report
+Earnings release
+Sections
+Stocks
+IPOs
+ETFs
+Blog
+Services
+Stock Analysis Pro
+Free Newsletter
+Get Support
+Install The App
+Website
+Login
+Create Account
+Changelog
+Sitemap
+Advertise
+FAQ
+Company
+About
+Contact Us
+Terms of Use
+Privacy Policy
+Data Sources
+Affiliate Program
+
+Market Newsletter
+Daily market news in bullet point format.
+
+Enter your email
+Subscribe
+Site Theme
+Light
+Dark
+Facebook
+X (Twitter)
+Download on the App Store
+Get it on Google Play
+© 2026 StockAnalysis.com. All rights reserved.
+
+Valero Energy (VLO) Q2 2023 Earnings Call Transcript & Audio
