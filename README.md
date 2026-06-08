@@ -66,7 +66,7 @@ earnings-sentiment-analysis/
 │   ├── charts/             # 6 research visualizations
 │   └── company_reports/    # 74 AI generated analyst reports
 └── app.py                  # Streamlit web application
----
+
 
 ## Database
 
