@@ -138,11 +138,11 @@ streamlit run app.py
 ---
 
 ## About
-
+```
 **Shekinah Paul**
 BSc (Hons) Applied Statistics and Data Analytics
 Aspiring Data Analytics professional
-
+```
 ---
 
 *This project was built independently as a portfolio piece demonstrating end-to-end data science skills in the finance domain.*
