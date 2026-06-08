@@ -56,6 +56,7 @@ Every quarter, S&P 500 CEOs get on earnings calls and talk about how their busin
 ---
 
 ## Project Structure
+'''
 earnings-sentiment-analysis/
 ├── data/
 │   ├── transcripts/        # 75 earnings call transcripts
@@ -66,7 +67,8 @@ earnings-sentiment-analysis/
 │   ├── charts/             # 6 research visualizations
 │   └── company_reports/    # 74 AI generated analyst reports
 └── app.py                  # Streamlit web application
-
+'''
+---
 
 ## Database
 
