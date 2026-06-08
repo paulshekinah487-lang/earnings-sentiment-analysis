@@ -1,0 +1,10 @@
+streamlit
+pandas
+plotly
+groq
+python-dotenv
+nltk
+transformers
+torch
+scikit-learn
+yfinance
